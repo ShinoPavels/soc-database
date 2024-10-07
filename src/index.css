@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  position: relative;
+  width: 40px; /* Default for small screens */
+  text-align: center;
+  margin: 0 3px;
+}
+
+.image {
+  width: 40px; /* Default for small screens */
+  height: 50px; /* Default for small screens */
+  object-fit: contain;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.image:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.4);
+}
+
+.unit-name {
+  margin-top: 3px;
+  font-size: 6px; /* Default for small screens */
+  color: #ffffff;
+  text-align: center;
+}
+
+/* Medium screens (tablets, larger mobile phones) */
+@media (min-width: 640px) {
+  .card {
+    width: 55px; /* Increase width on medium screens */
+    margin: 0 4px;
+  }
+
+  .image {
+    width: 55px; /* Increase image size on medium screens */
+    height: 70px;
+  }
+
+  .unit-name {
+    font-size: 8px; /* Slightly larger text */
+  }
+}
+
+/* Large screens (laptops, desktops) */
+@media (min-width: 1024px) {
+  .card {
+    width: 70px; /* Larger card for bigger screens */
+    margin: 0 5px;
+  }
+
+  .image {
+    width: 70px; /* Larger image for bigger screens */
+    height: 85px;
+  }
+
+  .unit-name {
+    font-size: 10px; /* Larger text for bigger screens */
+  }
+}
+
+/* Extra-large screens (large desktops) */
+@media (min-width: 1280px) {
+  .card {
+    width: 85px; /* Very large card for extra-large screens */
+    margin: 0 6px;
+  }
+
+  .image {
+    width: 85px; /* Larger image for extra-large screens */
+    height: 105px;
+  }
+
+  .unit-name {
+    font-size: 12px; /* Larger text for extra-large screens */
+  }
+}
