@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './Components/Header';
 import Sidebar from './Components/Sidebar';
 import Footer from './Components/Footer';
-import Home from './pages/Home'; // Import the Home component
 import Characters from './Pages/Characters'; // Import other pages you create
 import Abyss from './HeroPage/Abyss';
 import Acambe from './HeroPage/Acambe';
@@ -145,6 +144,7 @@ import Tarot from './Pages/Tarot';
 import TarotTierList from './Pages/TarotTierList';
 import CharactersGuides from './Pages/CharactersGuides';
 import Builder from './Pages/Builder';
+import HomePage from './Pages/Home';
 
 const App = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
@@ -166,7 +166,7 @@ const App = () => {
           <div className="flex-1 p-8 mt-16">
             <Routes>
 
-              <Route path="/" element={<Home />} />
+              <Route path="/" element={<HomePage />} />
 
               <Route path="/characters" element={<Characters />} />
               <Route path="/characters/Abyss" element={<Abyss />} /> {/* Route for Abyss */}

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 // Example data for most visited pages or random pages
 const mostVisitedPages = [
