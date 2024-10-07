@@ -16,13 +16,13 @@ const PvETierList = () => {
         <table className="min-w-full table-auto border-collapse shadow-lg rounded-lg">
           <thead>
             <tr className="bg-gradient-to-r from-green-600 to-blue-600">
-              <th className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg">
+              <th className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg max-sm:hidden">
                 Tier
               </th>
               {categories.map((category, index) => (
                 <th
                   key={index}
-                  className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg"
+                  className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg max-sm:text-xs"
                 >
                   {category}
                 </th>
@@ -33,7 +33,7 @@ const PvETierList = () => {
             {tiers.map((tier, tierIndex) => (
               <tr key={tierIndex}>
                 <td
-                  className={`border border-gray-700 px-4 py-3 lg:px-6 lg:py-4 text-sm lg:text-base text-center`}
+                  className={`border border-gray-700 px-4 py-3 lg:px-6 lg:py-4 text-sm lg:text-base text-center max-sm:hidden`}
                 >
                   {tier}
                 </td>

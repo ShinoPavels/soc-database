@@ -276,7 +276,7 @@ const Trinckets = () => {
       </div>
 
       {/* TrincketPage List */}
-      <div className="text-white grid grid-cols-1 sm:grid-cols-5 md:grid-cols-10 lg:grid-cols-12 gap-6 justify-center mx-4 sm:mx-8 lg:mx-16 m-10">
+      <div className="text-white grid grid-cols-3 sm:grid-cols-5 md:grid-cols-10 lg:grid-cols-12 gap-6 justify-center mx-4 sm:mx-8 lg:mx-16 m-10">
         {filteredTrincketPage.map((character, index) => (
           <div
             key={index}

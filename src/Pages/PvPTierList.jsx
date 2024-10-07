@@ -7,22 +7,22 @@ const PvPTierList = () => {
   const categories = ["Breaker", "Seeker", "Defender", "Watcher", "Destroyer"];
 
   return (
-    <div className="text-white p-4 lg:p-8">
-      <h1 className="text-3xl lg:text-4xl font-extrabold mb-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-purple-500">
+    <div className="text-white p-4 lg:p-8 ">
+      <h1 className="text-3xl lg:text-4xl font-extrabold mb-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-purple-500 ">
         PvP Tier List
       </h1>
 
-      <div className="overflow-x-auto">
-        <table className="min-w-full table-auto border-collapse shadow-lg rounded-lg">
+      <div className="overflow-x-auto ">
+        <table className="min-w-full table-auto border-collapse shadow-lg rounded-lg ">
           <thead>
-            <tr className="bg-gradient-to-r from-purple-600 to-indigo-600">
-              <th className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg">
+            <tr className="bg-gradient-to-r from-purple-600 to-indigo-600 ">
+              <th className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg max-sm:text-xs max-sm:hidden">
                 Tier
               </th>
               {categories.map((category, index) => (
                 <th
                   key={index}
-                  className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg"
+                  className="border border-gray-700 px-4 py-2 lg:px-6 lg:py-3 font-semibold text-base lg:text-lg max-sm:text-xs "
                 >
                   {category}
                 </th>
@@ -33,7 +33,7 @@ const PvPTierList = () => {
             {tiers.map((tier, tierIndex) => (
               <tr key={tierIndex}>
                 <td
-                  className={`border border-gray-700 px-4 py-3 lg:px-6 lg:py-4 text-sm lg:text-base text-center`}
+                  className={`border border-gray-700 px-4 py-3 lg:px-6 lg:py-4 text-sm lg:text-base text-center max-sm:hidden`}
                 >
                   {tier}
                 </td>

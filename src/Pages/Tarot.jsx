@@ -114,12 +114,12 @@ const Tarot = () => {
   ];
 
   return (
-    <div className="min-h-screen  text-white px-4 lg:px-16 p-4">
+    <div className="min-h-screen  text-white px-4 lg:px-16 p-4 ">
         <h1 className="text-3xl lg:text-4xl font-extrabold mb-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-purple-500">Tarot List</h1>
       {/* Tarot List Box */}
-      <div className="bg-gray-800 rounded-lg shadow-lg p-6">
+      <div className="bg-gray-800 rounded-lg shadow-lg p-6 max-sm:p-2">
 
-        <div className="overflow-x-auto">
+        <div className="overflow-x-auto ">
           <table className="w-full table-auto bg-gray-800 rounded-lg border-collapse">
             <thead>
               <tr className="bg-gray-700 text-left">
