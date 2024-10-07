@@ -14,7 +14,7 @@ const Edda = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Edda\Edda-Profile.webp" alt="Edda" title='Edda' className=''></img>
+          <img src="\assets\Hero-Art-Out\Edda\Edda-Profile.webp" alt="Edda" title='Edda' className=''></img>
 
         </div>
         
@@ -153,7 +153,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Catching-Fire-Trait.webp" alt="Catching Fire" title='Catching Fire'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Catching-Fire-Trait.webp" alt="Catching Fire" title='Catching Fire'></img>
                 <h1>Catching Fire :
                     <h2>Increases Edda’s ATK by 12%. Performs an [Assisting Attack] againts enemies within 5 tiles around her, dealing 40% Physical DMG. This effect can only be triggered 2 times per round.</h2>
                 </h1>
@@ -161,7 +161,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Shield-Break-Shot.webp" alt="Shield Break Shot" title='Shield Break Shot'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Shield-Break-Shot.webp" alt="Shield Break Shot" title='Shield Break Shot'></img>
                 <h1>Shield Break Shot :
                     <h2>(Physical DMG) Deals 135% to an enemy within a cross-shaped range around the character. Gains [Shield Break 4] before attacking.</h2>
                 </h1>
@@ -169,7 +169,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Fortification.webp" alt="Fortification" title='Fortification'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Fortification.webp" alt="Fortification" title='Fortification'></img>
                 <h1>Fortification :
                     <h2>(Support) [Instant] Summons a [Box] at the target tile.</h2>
                 </h1>
@@ -178,7 +178,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Shield-Break-Enhanced.webp" alt="Shield Break Enhanced" title='Shield Break Enhanced'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Shield-Break-Enhanced.webp" alt="Shield Break Enhanced" title='Shield Break Enhanced'></img>
                 <h1>Shield Break Enhanced :
                     <h2>(Passive) Increases ATK by 30% and ignores 40% of the target’s DEF when attacking enemies with a [Shield].</h2>
                 </h1>
@@ -187,7 +187,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Guiding-Gleam.webp" alt="Guiding Gleam" title='Guiding Gleam'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Guiding-Gleam.webp" alt="Guiding Gleam" title='Guiding Gleam'></img>
                 <h1>Guiding Gleam :
                     <h2>(Support) Grants all allies within 3 tiles of Edda [▲DMG 3], [▲M.DEF 2], [▲Move 1], for 3 turns. She dispels [Disruption] from the targets.</h2>
                 </h1>
@@ -196,7 +196,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Wine-Barrel-Casting.webp" alt="Wine Barrel Casting" title='Wine Barrel Casting'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Wine-Barrel-Casting.webp" alt="Wine Barrel Casting" title='Wine Barrel Casting'></img>
                 <h1>Wine Barrel Casting :
                     <h2>(Physical DMG) [Instant] Edda deals 20% DMG to all enemies within 1 tile of the target and changes the tiles into [Liquor].</h2>
                 </h1>
@@ -205,7 +205,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Shelter-Advantage.webp" alt="Shelter Advantage" title='Shelter Advantage'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Shelter-Advantage.webp" alt="Shelter Advantage" title='Shelter Advantage'></img>
                 <h1>Shelter Advantage :
                     <h2>(Reaction) Decreases the DMG taken by 40% if there is any [Item] within 1 tile around the character.</h2>
                 </h1>
@@ -214,7 +214,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
                 <h1>Counterattack :
                     <h2>(Reaction) When hit by an Active attack from the [front or side], performs a basic attack to [Strike Back] if the attacker is within range, dealing 70% of basic attack’s DMG. The effect can be activated up to 1 time per round.</h2>
                 </h1>
@@ -223,7 +223,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Rupture-Armor.webp" alt="Rupture Armor" title='Rupture Armor'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Rupture-Armor.webp" alt="Rupture Armor" title='Rupture Armor'></img>
                 <h1>Rupture Armor :
                     <h2>(Passive) Before a single-target attack, gains a 50% chance to inflict [▼P.DEF 2], on the target for 2 turns.</h2>
                 </h1>
@@ -232,7 +232,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Barricade-Fight.webp" alt="Barricade Fight" title='Barricade Fight'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Barricade-Fight.webp" alt="Barricade Fight" title='Barricade Fight'></img>
                 <h1>Barricade Fight :
                     <h2>(Passive) If there is any [Item] within 1 tile of the character, increases ATK by 15% and allows the character to move again by 2 tiles after initiating an Active Attack.</h2>
                 </h1>
@@ -241,7 +241,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Shield-Break-Attack.webp" alt="Shield-Break Attack" title='Shield-Break Attack'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Shield-Break-Attack.webp" alt="Shield-Break Attack" title='Shield-Break Attack'></img>
                 <h1>Shield-Break Attack :
                     <h2>(Basic Attack) Deals 100% Physical DMG and gains [Shield Break 1] before attacking.</h2>
                 </h1>
@@ -250,7 +250,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
                 <h1>Dispelling Strike :
                     <h2>(Basic Attack) Deals 100% Physical DMG and dispels 2 [Buffs] on the target.</h2>
                 </h1>
@@ -260,7 +260,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Take-Arms!.webp" alt="Take Arms!" title='Take Arms!'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Take-Arms!.webp" alt="Take Arms!" title='Take Arms!'></img>
                 <h1>Take Arms! :
                     <h2>(Support) Other allies within 4 tiles of Edda restore 1 NRG. When she performs an [Assisting Attack], her DMG increases by 130%. Increases the maximum number of times the effect can be triggered per turn by 2. The effect lasts for 1 turn.</h2>
                 </h1>
@@ -269,7 +269,7 @@ Edda believes that in this chaotic world, everyone must learn to take up arms to
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Edda\Storm-Sniping.webp" alt="Storm Sniping" title='Storm Sniping'></img>
+                <img src="\assets\Hero-Art-Out\Edda\Storm-Sniping.webp" alt="Storm Sniping" title='Storm Sniping'></img>
                 <h1>Storm Sniping :
                     <h2>(Physical DMG) Deals 120% DMG to 1 enemy Within a cross-shaped range around the character. For each tile between the character and the target (Distance for Adjacent Tiles counts as 0), deals 10% more DMG.</h2>
                 </h1>

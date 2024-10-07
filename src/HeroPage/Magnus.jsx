@@ -14,7 +14,7 @@ const Magnus = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Magnus\Magnus-Profile.webp" alt="Magnus" title='Magnus' className=''></img>
+          <img src="\assets\Hero-Art-Out\Magnus\Magnus-Profile.webp" alt="Magnus" title='Magnus' className=''></img>
 
         </div>
         
@@ -155,7 +155,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Experienced-General-Trait.webp" alt="Experienced General" title='Experienced General'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Experienced-General-Trait.webp" alt="Experienced General" title='Experienced General'></img>
                 <h1>Experienced General :
                     <h2>Magnus decreases the ATK and DEF of all enemies within 4 tiles of himself by 15%. When attacking, he is granted bonus Physical ATK equal to 40% of his Physical DEF.</h2>
                 </h1>
@@ -163,7 +163,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Mountain-Breaker.webp" alt="Mountain Breaker" title='Mountain Breaker'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Mountain-Breaker.webp" alt="Mountain Breaker" title='Mountain Breaker'></img>
                 <h1>Mountain Breaker :
                     <h2>(Physical DMG) Single-target attack. Magnus deals 150% DMG. When the target is [Injured], he also inflicts [Isolate] before attacking. Magnus restores 2 Energy when he defeats the target.</h2>
                 </h1>
@@ -171,7 +171,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Attack-Stance.webp" alt="Attack Stance" title='Attack Stance'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Attack-Stance.webp" alt="Attack Stance" title='Attack Stance'></img>
                 <h1>Attack Stance :
                     <h2>(Support) [Instant], 40% of the own physical defense value is added to the physical attack value, and the damage received is increased by 8%, lasting for 2 rounds.</h2>
                 </h1>
@@ -180,7 +180,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Resolve.webp" alt="Resolve" title='Resolve'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Resolve.webp" alt="Resolve" title='Resolve'></img>
                 <h1>Resolve :
                     <h2>(Passive) Immediately recovers 5% HP when the character is defeated. Can be activated up to 1 time per battle.</h2>
                 </h1>
@@ -189,7 +189,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Forceful-Cast.webp" alt="Forceful Cast" title='Forceful Cast'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Forceful-Cast.webp" alt="Forceful Cast" title='Forceful Cast'></img>
                 <h1>Forceful Cast :
                     <h2>(Physical DMG) Magnus throws the enemy to an [Empty Tile] 3 or 4 tiles away from himself, dealing 70% DMG to all enemies within 1 tile of the target tile and inflicting [▼Move 1]. The effect lasts for 2 turns.</h2>
                 </h1>
@@ -198,7 +198,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Cry-of-Victory.webp" alt="Cry of Victory" title='Cry of Victory'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Cry-of-Victory.webp" alt="Cry of Victory" title='Cry of Victory'></img>
                 <h1>Cry of Victory :
                     <h2>(Passive) When an enemy is defeated within 2 tiles around the character, inflicts [▼ATK 2] on all enemies within 5 tiles and grants [▲DMG 2] to all other allies. The effects last for 2 turns and will be triggered immediately before using [Mountain Breaker]. Can be triggered up to 1 time per round.</h2>
                 </h1>
@@ -207,7 +207,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Bloodthirsty-Great-Axe.webp" alt="Bloodthirsty Great Axe" title='Bloodthirsty Great Axe'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Bloodthirsty-Great-Axe.webp" alt="Bloodthirsty Great Axe" title='Bloodthirsty Great Axe'></img>
                 <h1>Bloodthirsty Great Axe :
                     <h2>(Reaction) When being actively attacked by [front or side], if the opponent is within the attack range, use [normal attack]. [Strike Back], effective only once per round.</h2>
                 </h1>
@@ -216,7 +216,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Hardening.webp" alt="Hardening" title='Hardening'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Hardening.webp" alt="Hardening" title='Hardening'></img>
                 <h1>Hardening :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. After being attacked, the character gains [DMG Reduction 2] for 2 turns.</h2>
                 </h1>
@@ -225,7 +225,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Crushing-Smash.webp" alt="Crushing Smash" title='Crushing Smash'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Crushing-Smash.webp" alt="Crushing Smash" title='Crushing Smash'></img>
                 <h1>Crushing Smash :
                     <h2>(Physical damage) Single target attack, causing 120% damage, applied [Vulnerable 2], lasts 3 rounds.</h2>
                 </h1>
@@ -234,7 +234,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Blood-&-Steel.webp" alt="Blood & Steel" title='Blood & Steel'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Blood-&-Steel.webp" alt="Blood & Steel" title='Blood & Steel'></img>
                 <h1>Blood & Steel :
                     <h2>(Leadership Aura) For all “Fortitude” allies in battle, increases ATK by 10% and DEF by 20%. Decreases the DMG taken by 10% if [Healthy]. Becomes immune to the negative effect of the [Injured] state.</h2>
                 </h1>
@@ -243,7 +243,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Big-Power-Swing.webp" alt="Big Power Swing" title='Big Power Swing'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Big-Power-Swing.webp" alt="Big Power Swing" title='Big Power Swing'></img>
                 <h1>Big Power Swing :
                     <h2>(Basic attack) Causes 70% [range damage] to all enemies in a 3×2 area in the target direction.</h2>
                 </h1>
@@ -252,7 +252,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Frenzy-Attack.webp" alt="Frenzy Attack" title='Frenzy Attack'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Frenzy-Attack.webp" alt="Frenzy Attack" title='Frenzy Attack'></img>
                 <h1>Frenzy Attack :
                     <h2>(Basic attack) Deals 100% damage to the enemy and generates 20% [Life Steal].</h2>
                 </h1>
@@ -262,7 +262,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Sharp-Blade.webp" alt="Sharp Blade" title='Sharp Blade'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Sharp-Blade.webp" alt="Sharp Blade" title='Sharp Blade'></img>
                 <h1>Sharp Blade :
                     <h2>(Passive) When actively attacking, damage increased by 10%. When counterattacking, damage is increased by 30%.	</h2>
                 </h1>
@@ -271,7 +271,7 @@ After King Faris retired, Magnus represented King Faris’ will to assist Dantal
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Magnus\Steel-Chariot.webp" alt="Steel Chariot" title='Steel Chariot'></img>
+                <img src="\assets\Hero-Art-Out\Magnus\Steel-Chariot.webp" alt="Steel Chariot" title='Steel Chariot'></img>
                 <h1>Steel Chariot :
                     <h2>(Physical damage) Single target attack, causing 300% of its own physical defense value as damage, not exceeding 200% of its physical attack value. Before attacking, 20% of own physical attack value is added to physical defense value for 2 rounds.</h2>
                 </h1>

@@ -14,7 +14,7 @@ const Gloria = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Gloria\Gloria-Profile.webp" alt="Gloria" title='Gloria' className=''></img>
+          <img src="\assets\Hero-Art-Out\Gloria\Gloria-Profile.webp" alt="Gloria" title='Gloria' className=''></img>
 
         </div>
         
@@ -153,7 +153,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Flag-of-Justice-Trait.webp" alt="Flag of Justice" title='Flag of Justice'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Flag-of-Justice-Trait.webp" alt="Flag of Justice" title='Flag of Justice'></img>
                 <h1>Flag of Justice :
                     <h2>Increases ATK by 20%. When the character loses [Flag Waving] aura, gains [Potential Burst] for 2 turns. Increases Movement by 2 tiles. Ignores 50% of the target’s DEF.
                     At the start of the battle, Gloria will auto-use [Longinus Flag Waving] which grants [Flag Waving] aura.</h2>
@@ -162,7 +162,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Longinus-Thrust.webp" alt="Longinus Thrust" title='Longinus Thrust'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Longinus-Thrust.webp" alt="Longinus Thrust" title='Longinus Thrust'></img>
                 <h1>Longinus Thrust :
                     <h2>(Physical DMG) Selects 1 enemy within a cross-shaped range of the character, charging at them, dealing 120% DMG and knocking the enemy back by 2 tiles. If there is no [Flag Waving] aura on the character, the skill switches to [Sword – Gale].</h2>
                 </h1>
@@ -170,7 +170,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Knightly-Spirit.webp" alt="Knightly Spirit" title='Knightly Spirit'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Knightly-Spirit.webp" alt="Knightly Spirit" title='Knightly Spirit'></img>
                 <h1>Knightly Spirit :
                     <h2>(Passive) Increases ATK by 20% when attacking enemies from the [front]. Increases DEF by 40% when being attacked from the [front].</h2>
                 </h1>
@@ -179,7 +179,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Solemnity.webp" alt="Solemnity" title='Solemnity'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Solemnity.webp" alt="Solemnity" title='Solemnity'></img>
                 <h1>Solemnity :
                     <h2>(Aura) Decreases ATK of all enemies within the character’s 2-tile radius by 10%.</h2>
                 </h1>
@@ -188,7 +188,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Longinus-Brillance.webp" alt="Longinus Brilliance" title='Longinus Brilliance'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Longinus-Brillance.webp" alt="Longinus Brilliance" title='Longinus Brilliance'></img>
                 <h1>Longinus Brilliance :
                     <h2>(Support) Gloria grants all allies within 3 tiles of the her [▲ATK 1] and [DMG Reduction 2] for 2 turns, and restores 1 NRG. If there is no [Flag Waving] aura on the character, the skill switches to [Sword Full Moon].	</h2>
                 </h1>
@@ -197,7 +197,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Lance-of-Longinus.webp" alt="Lance of Longinus" title='Lance of Longinus'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Lance-of-Longinus.webp" alt="Lance of Longinus" title='Lance of Longinus'></img>
                 <h1>Lance of Longinus :
                     <h2>(Physical DMG) Deals 80% [AoE DMG] to all enemies within 2 tiles around the target [empty tile]. Summons a [Flag] at the cost of [Flag Waving] aura. If there is no [Flag Waving] aura on the character, the skill switches to [Longinus Flag Waving].</h2>
                 </h1>
@@ -206,7 +206,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Front-Defense.webp" alt="Front Defense" title='Front Defense'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Front-Defense.webp" alt="Front Defense" title='Front Defense'></img>
                 <h1>Front Defense :
                     <h2>(Reaction) When hit by an active attack from the [front], the DMG taken is decreased by 30%.</h2>
                 </h1>
@@ -215,7 +215,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
                 <h1>Counterattack :
                     <h2>(Reaction) When hit by an active attack from the [front or side], performs a basic attack to [Strike Back] if the attacker is within range, dealing 70% of basic attack’s DMG. The effect can be activated up to 1 time per round.</h2>
                 </h1>
@@ -224,7 +224,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Couterattack-Mode.webp" alt="Counterattack Mode" title='Counterattack Mode'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Couterattack-Mode.webp" alt="Counterattack Mode" title='Counterattack Mode'></img>
                 <h1>Counterattack Mode :
                     <h2>(Support) Adds 20% of P.ATK to P.DEF and M.DEF, increases Strike Back DMG by 50%, gains [Preempt], and increases Strike Back Range by 2 tiles, lasting for 2 turns.</h2>
                 </h1>
@@ -233,7 +233,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Vow-of-Justice.webp" alt="Vow of Justice" title='Vow of Justice'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Vow-of-Justice.webp" alt="Vow of Justice" title='Vow of Justice'></img>
                 <h1>Vow of Justice :
                     <h2>(Leader’s Aura) For all [The Union] allies in battle, ATK is increased by 10%, DEF is increased by 20%. When performing an active attack, DMG is increased by 12%. When being Struck Back, DMG taken is decreased by 24%.</h2>
                 </h1>
@@ -242,7 +242,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Lance-of-Justice.webp" alt="Lance of Justice" title='Lance of Justice'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Lance-of-Justice.webp" alt="Lance of Justice" title='Lance of Justice'></img>
                 <h1>Lance of Justice :
                     <h2>(Basic Attack) Gloria deals 70% Physical DMG to all enemies within 1 tile of the target. If there is no [Flag Waving] aura on the Gloria, the skill switches to [Sword of Justice].</h2>
                 </h1>
@@ -251,7 +251,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Silencing-Attack.webp" alt="Silencing Attack" title='Silencing Attack'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Silencing-Attack.webp" alt="Silencing Attack" title='Silencing Attack'></img>
                 <h1>Silencing Attack :
                     <h2>(Basic Attack) Deals 100% Physical DMG and inflicts [🛇Active Skills] on [Injured] targets before attacking, lasting for 2 turns.</h2>
                 </h1>
@@ -261,7 +261,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Fair-Duel.webp" alt="Fair Duel" title='Fair Duel'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Fair-Duel.webp" alt="Fair Duel" title='Fair Duel'></img>
                 <h1>Fair Duel :
                     <h2>(Physical DMG) Single-target attack. Deals 180% DMG. Before attacking, dispels all [Debuffs] on the character and all [Buffs] on the target.	</h2>
                 </h1>
@@ -270,7 +270,7 @@ After the tragedy in Waverun City, she was sent by the Council to Iria. She has 
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Gloria\Knights-Glory.webp" alt="Knight’s Glory" title='Knight’s Glory'></img>
+                <img src="\assets\Hero-Art-Out\Gloria\Knights-Glory.webp" alt="Knight’s Glory" title='Knight’s Glory'></img>
                 <h1>Knight’s Glory :
                     <h2>(Support) [Instant] Grants the target [▲ATK 2] for 2 turns. When the targets are from [The Union], the character gains an additional [Physical Shield] equal to 20% of HP.</h2>
                 </h1>

@@ -49,7 +49,7 @@ const PvETierList = () => {
                       ) : tier === 'T0' && category === 'Destroyer' ? (
                         <>
                           <div className="card">
-                            <Link to='/Characters/Tristan'><img src="public/assets/Miniatures-Inc/Tristan-Minia.png" alt="Tristan" className="image" /></Link>
+                            <Link to='/Characters/Tristan'><img src="/assets/Miniatures-Inc/Tristan-Minia.png" alt="Tristan" className="image" /></Link>
                             <p className="unit-name">Tristan</p>
                           </div>
                           
@@ -57,22 +57,22 @@ const PvETierList = () => {
                       ) : tier === 'T0' && category === 'Watcher' ? (
                         <>
                           <div className="card">
-                            <Link to='/Characters/Inanna'><img src="public/assets/Miniatures-Out/Inanna-Minia.png" alt="Inanna" className="image" /></Link>
+                            <Link to='/Characters/Inanna'><img src="/assets/Miniatures-Out/Inanna-Minia.png" alt="Inanna" className="image" /></Link>
                             <p className="unit-name">Inanna</p>
                           </div>
                           <div className="card">
-                            <Link to='/Characters/Taair'><img src="public/assets/Miniatures-Inc/Taair-Minia.png" alt="Taair" className="image" /></Link>
+                            <Link to='/Characters/Taair'><img src="/assets/Miniatures-Inc/Taair-Minia.png" alt="Taair" className="image" /></Link>
                             <p className="unit-name">Taair</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Edda'><img src="public\assets\Miniatures-out\Edda-Minia.png" alt="Edda" className="image" /></Link>
+                          <Link to='/Characters/Edda'><img src="\assets\Miniatures-out\Edda-Minia.png" alt="Edda" className="image" /></Link>
                             <p className="unit-name">Edda</p>
                           </div>
                         </>
                       ) : tier === 'T0' && category === 'Defender' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Cocoa'><img src="public\assets\Miniatures-out\Cocoa-Minia.png" alt="Cocoa" className="image" /></Link>
+                          <Link to='/Characters/Cocoa'><img src="\assets\Miniatures-out\Cocoa-Minia.png" alt="Cocoa" className="image" /></Link>
                             <p className="unit-name">Cocoa</p>
                           </div>
                         </>
@@ -80,7 +80,7 @@ const PvETierList = () => {
                         <>
                         
                         <div className="card">
-                            <Link to='/Characters/Safiyyah'><img src="public/assets/Miniatures-Inc/Safiyyah-Minia.png" alt="Safiyyah" className="image" /></Link>
+                            <Link to='/Characters/Safiyyah'><img src="/assets/Miniatures-Inc/Safiyyah-Minia.png" alt="Safiyyah" className="image" /></Link>
                             <p className="unit-name">Safiyyah</p>
                           </div>
                         </>
@@ -88,7 +88,7 @@ const PvETierList = () => {
                         <>
                           
                           <div className="card">
-                          <Link to='/Characters/NonoWill'><img src="public\assets\Miniatures-out\Nonowill-Minia.png" alt="Nonowill" className="image" /></Link>
+                          <Link to='/Characters/NonoWill'><img src="\assets\Miniatures-out\Nonowill-Minia.png" alt="Nonowill" className="image" /></Link>
                             <p className="unit-name">Nonowill</p>
                           </div>
                           
@@ -96,7 +96,7 @@ const PvETierList = () => {
                       ) :  tier === 'T0.5' && category === 'Defender' ? (
                         <>
                         <div className="card">
-                            <Link to='/Characters/Layla'><img src="public/assets/Miniatures-Inc/Layla-Minia.png" alt="Layla" className="image" /></Link>
+                            <Link to='/Characters/Layla'><img src="/assets/Miniatures-Inc/Layla-Minia.png" alt="Layla" className="image" /></Link>
                             <p className="unit-name">Layla</p>
                           </div>
                         
@@ -104,11 +104,11 @@ const PvETierList = () => {
                       ) :  tier === 'T0.5' && category === 'Watcher' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Gloria'><img src="public\assets\Miniatures-out\Gloria-Minia.png" alt="Gloria" className="image" /></Link>
+                          <Link to='/Characters/Gloria'><img src="\assets\Miniatures-out\Gloria-Minia.png" alt="Gloria" className="image" /></Link>
                             <p className="unit-name">Gloria</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Agatha'><img src="public\assets\Miniatures-inc\Agatha-Minia.png" alt="Agatha" className="image" /></Link>
+                          <Link to='/Characters/Agatha'><img src="\assets\Miniatures-inc\Agatha-Minia.png" alt="Agatha" className="image" /></Link>
                             <p className="unit-name">Agatha</p>
                           </div>
                           </>
@@ -119,14 +119,14 @@ const PvETierList = () => {
                       ) :  tier === 'T0.5' && category === 'Destroyer' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Beryl'><img src="public\assets\Miniatures-out\Beryl-Minia.png" alt="Beryl" className="image" /></Link>
+                          <Link to='/Characters/Beryl'><img src="\assets\Miniatures-out\Beryl-Minia.png" alt="Beryl" className="image" /></Link>
                             <p className="unit-name">Beryl</p>
                           </div>
                           </>
                       ) : tier === 'T1' && category === 'Breaker' ? (
                         <>
                         <div className="card">
-                          <Link to='/Characters/Rawiyah'><img src="public\assets\Miniatures-out\Rawiyah-Minia.png" alt="Rawiyah" className="image" /></Link>
+                          <Link to='/Characters/Rawiyah'><img src="\assets\Miniatures-out\Rawiyah-Minia.png" alt="Rawiyah" className="image" /></Link>
                             <p className="unit-name">Rawiyah</p>
                           </div>
                           
@@ -134,40 +134,40 @@ const PvETierList = () => {
                       ) : tier === 'T1' && category === 'Seeker' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Col'><img src="public\assets\Miniatures-out\Col-Minia.png" alt="Col" className="image" /></Link>
+                          <Link to='/Characters/Col'><img src="\assets\Miniatures-out\Col-Minia.png" alt="Col" className="image" /></Link>
                             <p className="unit-name">Col</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Hasna'><img src="public\assets\Miniatures-inc\Hasna-Minia.png" alt="Hasna" className="image" /></Link>
+                          <Link to='/Characters/Hasna'><img src="\assets\Miniatures-inc\Hasna-Minia.png" alt="Hasna" className="image" /></Link>
                             <p className="unit-name">Hasna</p>
                           </div>
                           </>
                       ) : tier === 'T1' && category === 'Destroyer' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Dantalion'><img src="public\assets\Miniatures-out\Dantalion-Minia.png" alt="Dantalion" className="image" /></Link>
+                          <Link to='/Characters/Dantalion'><img src="\assets\Miniatures-out\Dantalion-Minia.png" alt="Dantalion" className="image" /></Link>
                             <p className="unit-name">Dantalion</p>
                           </div>
                           </>
                       ) : tier === 'T1' && category === 'Watcher' ? (
                         <>
                         <div className="card">
-                        <Link to='/Characters/Samantha'><img src="public\assets\Miniatures-out\Samantha-Minia.png" alt="Samantha" className="image" /></Link>
+                        <Link to='/Characters/Samantha'><img src="\assets\Miniatures-out\Samantha-Minia.png" alt="Samantha" className="image" /></Link>
                           <p className="unit-name">Samantha</p>
                         </div>
                           </>
                       ) : tier === 'T1.5' && category === 'Breaker' ? (
                         <>
                         <div className="card">
-                            <Link to='/Characters/Pamina'><img src="public/assets/Miniatures-Inc/Pamina-Minia.png" alt="Pamina" className="image" /></Link>
+                            <Link to='/Characters/Pamina'><img src="/assets/Miniatures-Inc/Pamina-Minia.png" alt="Pamina" className="image" /></Link>
                             <p className="unit-name">Pamina</p>
                           </div>
                         <div className="card">
-                            <Link to='/Characters/Auguste'><img src="public/assets/Miniatures-inc/Auguste-Minia.png" alt="Auguste" className="image" /></Link>
+                            <Link to='/Characters/Auguste'><img src="/assets/Miniatures-inc/Auguste-Minia.png" alt="Auguste" className="image" /></Link>
                             <p className="unit-name">Auguste</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Homa'><img src="public\assets\Miniatures-inc\Homa-Minia.png" alt="Homa" className="image" /></Link>
+                          <Link to='/Characters/Homa'><img src="\assets\Miniatures-inc\Homa-Minia.png" alt="Homa" className="image" /></Link>
                             <p className="unit-name">Homa</p>
                           </div>
                           
@@ -175,7 +175,7 @@ const PvETierList = () => {
                       ) :  tier === 'T1.5' && category === 'Watcher' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Simona'><img src="public\assets\Miniatures-out\Simona-Minia.png" alt="Simona" className="image" /></Link>
+                          <Link to='/Characters/Simona'><img src="\assets\Miniatures-out\Simona-Minia.png" alt="Simona" className="image" /></Link>
                             <p className="unit-name">Simona</p>
                           </div>
                           </>
@@ -183,37 +183,37 @@ const PvETierList = () => {
                         <>
                           
                           <div className="card">
-                            <Link to='/Characters/Schacklulu'><img src="public/assets/Miniatures-Inc/Schacklulu-Minia.png" alt="Schacklulu" className="image" /></Link>
+                            <Link to='/Characters/Schacklulu'><img src="/assets/Miniatures-Inc/Schacklulu-Minia.png" alt="Schacklulu" className="image" /></Link>
                             <p className="unit-name">Schacklulu</p>
                           </div>
                           <div className="card">
-                            <Link to='/Characters/Rawiyah-Alt'><img src="public/assets/Miniatures-Inc/Rawiyah-alt-Minia.png" alt="Rawiyah Alt" className="image" /></Link>
+                            <Link to='/Characters/Rawiyah-Alt'><img src="/assets/Miniatures-Inc/Rawiyah-alt-Minia.png" alt="Rawiyah Alt" className="image" /></Link>
                             <p className="unit-name">Rawiyah Alt</p>
                           </div>
                           </>
                       ) : tier === 'T1.5' && category === 'Destroyer' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Nungal'><img src="public\assets\Miniatures-out\Nungal-Minia.png" alt="Nungal" className="image" /></Link>
+                          <Link to='/Characters/Nungal'><img src="\assets\Miniatures-out\Nungal-Minia.png" alt="Nungal" className="image" /></Link>
                             <p className="unit-name">Nungal</p>
                           </div>
                           </>
                       ) : tier === 'T2' && category === 'Destroyer' ? (
                         <>
                         <div className="card">
-                            <Link to='/Characters/Momo'><img src="public/assets/Miniatures-Out/Momo-Minia.png" alt="Momo" className="image" /></Link>
+                            <Link to='/Characters/Momo'><img src="/assets/Miniatures-Out/Momo-Minia.png" alt="Momo" className="image" /></Link>
                             <p className="unit-name">Momo</p>
                           </div>
                           <div className="card">
-                            <Link to='/Characters/Acambe'><img src="public/assets/Miniatures-inc/Acambe-Minia.png" alt="Acambe" className="image" /></Link>
+                            <Link to='/Characters/Acambe'><img src="/assets/Miniatures-inc/Acambe-Minia.png" alt="Acambe" className="image" /></Link>
                             <p className="unit-name">Acambe</p>
                           </div>
                         <div className="card">
-                            <Link to='/Characters/Caris'><img src="public/assets/Miniatures-Inc/Caris-Minia.png" alt="Caris" className="image" /></Link>
+                            <Link to='/Characters/Caris'><img src="/assets/Miniatures-Inc/Caris-Minia.png" alt="Caris" className="image" /></Link>
                             <p className="unit-name">Caris</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Guzman'><img src="public\assets\Miniatures-out\Guzman-Minia.png" alt="Guzman" className="image" /></Link>
+                          <Link to='/Characters/Guzman'><img src="\assets\Miniatures-out\Guzman-Minia.png" alt="Guzman" className="image" /></Link>
                             <p className="unit-name">Guzman</p>
                           </div>
                           </>
@@ -221,18 +221,18 @@ const PvETierList = () => {
                         <>
                           
                           <div className="card">
-                          <Link to='/Characters/Faycal'><img src="public\assets\Miniatures-out\Faycal-Minia.png" alt="Faycal" className="image" /></Link>
+                          <Link to='/Characters/Faycal'><img src="\assets\Miniatures-out\Faycal-Minia.png" alt="Faycal" className="image" /></Link>
                             <p className="unit-name">Faycal</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/LilyWill'><img src="public\assets\Miniatures-out\LilyWill-Minia.png" alt="LilyWill" className="image" /></Link>
+                          <Link to='/Characters/LilyWill'><img src="\assets\Miniatures-out\LilyWill-Minia.png" alt="LilyWill" className="image" /></Link>
                             <p className="unit-name">LilyWill</p>
                           </div>
                           </>
                       ) : tier === 'T3' && category === 'Defender' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Magnus'><img src="public\assets\Miniatures-out\Magnus-Minia.png" alt="Magnus" className="image" /></Link>
+                          <Link to='/Characters/Magnus'><img src="\assets\Miniatures-out\Magnus-Minia.png" alt="Magnus" className="image" /></Link>
                             <p className="unit-name">Magnus</p>
                           </div>
                           </>
@@ -240,18 +240,18 @@ const PvETierList = () => {
                       ) : tier === 'T3' && category === 'Watcher' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Miguel'><img src="public\assets\Miniatures-out\Miguel-Minia.png" alt="Miguel" className="image" /></Link>
+                          <Link to='/Characters/Miguel'><img src="\assets\Miniatures-out\Miguel-Minia.png" alt="Miguel" className="image" /></Link>
                             <p className="unit-name">Miguel</p>
                           </div>
                           </>
                       ) :  tier === 'T3' && category === 'Breaker' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Leonide'><img src="public\assets\Miniatures-out\Leonide-Minia.png" alt="Leonide" className="image" /></Link>
+                          <Link to='/Characters/Leonide'><img src="\assets\Miniatures-out\Leonide-Minia.png" alt="Leonide" className="image" /></Link>
                             <p className="unit-name">Leonide</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Xavier'><img src="public\assets\Miniatures-out\Xavier-Minia.png" alt="Xavier" className="image" /></Link>
+                          <Link to='/Characters/Xavier'><img src="\assets\Miniatures-out\Xavier-Minia.png" alt="Xavier" className="image" /></Link>
                             <p className="unit-name">Xavier</p>
                           </div>
                           
@@ -259,14 +259,14 @@ const PvETierList = () => {
                       ) : tier === 'T4' && category === 'Seeker' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Garcia'><img src="public\assets\Miniatures-out\Garcia-Minia.png" alt="Garcia" className="image" /></Link>
+                          <Link to='/Characters/Garcia'><img src="\assets\Miniatures-out\Garcia-Minia.png" alt="Garcia" className="image" /></Link>
                             <p className="unit-name">Garcia</p>
                           </div>
                           </>
                       ) :  tier === 'T4' && category === 'Breaker' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Iggy'><img src="public\assets\Miniatures-out\Iggy-Minia.png" alt="Iggy" className="image" /></Link>
+                          <Link to='/Characters/Iggy'><img src="\assets\Miniatures-out\Iggy-Minia.png" alt="Iggy" className="image" /></Link>
                             <p className="unit-name">Iggy</p>
                           </div>
                           </>
@@ -277,19 +277,19 @@ const PvETierList = () => {
                       ) : tier === 'T4' && category === 'Defender' ? (
                         <>
                           <div className="card">
-                          <Link to='/Characters/Maitha'><img src="public\assets\Miniatures-out\Maitha-Minia.png" alt="Maitha" className="image" /></Link>
+                          <Link to='/Characters/Maitha'><img src="\assets\Miniatures-out\Maitha-Minia.png" alt="Maitha" className="image" /></Link>
                             <p className="unit-name">Maitha</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Alexei'><img src="public\assets\Miniatures-out\Alexei-Minia.png" alt="Alexei" className="image" /></Link>
+                          <Link to='/Characters/Alexei'><img src="\assets\Miniatures-out\Alexei-Minia.png" alt="Alexei" className="image" /></Link>
                             <p className="unit-name">Alexei</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Teadon'><img src="public\assets\Miniatures-out\Teadon-Minia.png" alt="Teadon" className="image" /></Link>
+                          <Link to='/Characters/Teadon'><img src="\assets\Miniatures-out\Teadon-Minia.png" alt="Teadon" className="image" /></Link>
                             <p className="unit-name">Teadon</p>
                           </div>
                           <div className="card">
-                          <Link to='/Characters/Nergal'><img src="public\assets\Miniatures-out\Nergal-Minia.png" alt="Nergal" className="image" /></Link>
+                          <Link to='/Characters/Nergal'><img src="\assets\Miniatures-out\Nergal-Minia.png" alt="Nergal" className="image" /></Link>
                             <p className="unit-name">Nergal</p>
                           </div>
                           </>

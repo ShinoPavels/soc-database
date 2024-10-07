@@ -14,7 +14,7 @@ const Lash = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Lash\Lash-Profile.webp" alt="Lash" title='Lash' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Lash\Lash-Profile.webp" alt="Lash" title='Lash' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const Lash = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Lash-Trait.webp" alt="Lash" title='Lash'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Lash-Trait.webp" alt="Lash" title='Lash'></img>
                 <h1>Lash :
                     <h2>After attacking, additionally deals 30% of M.ATK as [Piercing DMG] to the target. After using [Support] or [Healing] skills, additionally heals the target once for 20% of M.ATK.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const Lash = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Whip-of-Blame.webp" alt="Whip of Blame" title='Whip of Blame'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Whip-of-Blame.webp" alt="Whip of Blame" title='Whip of Blame'></img>
                 <h1>Whip of Blame :
                     <h2>(Magic DMG) Deals 60% DMG to all enemies in a straight line of 5 tiles in the target direction. Continues attacking, deals [Piercing DMG] equal to 30% of the character’s M.ATK.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const Lash = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Energy-Ray.webp" alt="Energy Ray" title='Energy Ray'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Energy-Ray.webp" alt="Energy Ray" title='Energy Ray'></img>
                 <h1>Energy Ray :
                     <h2>(Magic DMG) Single-target attack. Deals 140% DMG. Before attacking, the character gains [Shield Break 1].</h2>
                 </h1>
@@ -149,7 +149,7 @@ const Lash = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Soul-Soothing.webp" alt="Soul Soothing" title='Soul Soothing'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Soul-Soothing.webp" alt="Soul Soothing" title='Soul Soothing'></img>
                 <h1>Soul Soothing :
                     <h2>(Healing) Heals the target by 75% of M.ATK.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const Lash = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Dark-Withering.webp" alt="Dark Withering" title='Dark Withering'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Dark-Withering.webp" alt="Dark Withering" title='Dark Withering'></img>
                 <h1>Dark Withering :
                     <h2>(Magic DMG) Inflicts [Life Loss] equal to 50% of M.ATK to all enemies within a 2-tile radius of the target and inflicts [▼Healing Received], lasting for 2 turns.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const Lash = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\MDEF-Boost.webp" alt="M.DEF Boost" title='M.DEF Boost'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\MDEF-Boost.webp" alt="M.DEF Boost" title='M.DEF Boost'></img>
                 <h1>M.DEF Boost :
                     <h2>(Support) Grants [▲M.DEF 2] and [Immunity to Disrupt] to all allies within the target location, lasting for 2 turns.</h2>
                 </h1>
@@ -177,7 +177,7 @@ const Lash = () => {
             <tr className='align-left'>
             
                 <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Protection-of-Darkness.webp" alt="Protection of Darkness" title='Protection of Darkness'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Protection-of-Darkness.webp" alt="Protection of Darkness" title='Protection of Darkness'></img>
                 <h1>Protection of Darkness :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Before being hit by an active attack, for every [Debuff] on the attacker, decreases DMG taken by an additional 10%, up to 30%.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const Lash = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Highland-Defense.webp" alt="Highland Defense" title='Highland Defense'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Highland-Defense.webp" alt="Highland Defense" title='Highland Defense'></img>
                 <h1>Highland Defense :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. When attacked by an enemy from [Highland], DMG taken is additionally decreased by 20%.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const Lash = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Dark-Ripple.webp" alt="Dark Ripple" title='Dark Ripple'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Dark-Ripple.webp" alt="Dark Ripple" title='Dark Ripple'></img>
                 <h1>Dark Ripple :
                     <h2>(Magical DMG) Deals 70% [AoE DMG] to all enemies within a 2-tile radius of the target and inflicts [🛇Passive Skills] and [🛇Reaction Skills], lasting for 2 turns.</h2>
                 </h1>
@@ -203,7 +203,7 @@ const Lash = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Light-of-Sanctuary.webp" alt="Light of Sanctuary" title='Light of Sanctuary'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Light-of-Sanctuary.webp" alt="Light of Sanctuary" title='Light of Sanctuary'></img>
                 <h1>Light of Sanctuary :
                     <h2>(Support) [Instant] Single-target Healing. Restores 25% of the target’s HP. If the target is [Unharmed], the effect changes, which grants [▲DMG 2] and [▲M.DEF 2] for 2 turns.</h2>
                 </h1>
@@ -212,7 +212,7 @@ const Lash = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Discipline.webp" alt="Discipline" title='Discipline'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Discipline.webp" alt="Discipline" title='Discipline'></img>
                 <h1>Discipline :
                     <h2>(Piercing DMG) Single-target attack. Deals [Piercing DMG] equal to 60% of the character’s M.ATK.</h2>
                 </h1>
@@ -221,7 +221,7 @@ const Lash = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Lash\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Lash\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
                 <h1>Dispelling Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and dispel 2 [buffs] on the target.</h2>
                 </h1>

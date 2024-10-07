@@ -30,15 +30,15 @@ const TarotTierList = () => {
                             <p className="unit-name">Temptation of the Devil</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Verdict-of-Justice.webp" alt="Verdict of Justice" className="image" />
+                            <img src="\assets\Tarot\Verdict-of-Justice.webp" alt="Verdict of Justice" className="image" />
                             <p className="unit-name">Verdict of Justice</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Dream-of-the-Magician.webp" alt="Dream of the MAgician" className="image" />
+                            <img src="\assets\Tarot\Dream-of-the-Magician.webp" alt="Dream of the MAgician" className="image" />
                             <p className="unit-name">Dream of the Magician</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Majesty-of-the-Emperor.webp" alt="Majesty of the Emperor" className="image" />
+                            <img src="\assets\Tarot\Majesty-of-the-Emperor.webp" alt="Majesty of the Emperor" className="image" />
                             <p className="unit-name">Majesty of the Emperor</p>
                           </div>
                           
@@ -49,35 +49,35 @@ const TarotTierList = () => {
                         <>
                         <div className='flex'>
                           <div className="card">
-                            <img src="public\assets\Tarot\Guidance-of-the-World.webp" alt="Guidance of the World" className="image" />
+                            <img src="\assets\Tarot\Guidance-of-the-World.webp" alt="Guidance of the World" className="image" />
                             <p className="unit-name">Guidance of the World</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Elegance-of-the-Empress.webp" alt="Elegance of the Empress" className="image" />
+                            <img src="\assets\Tarot\Elegance-of-the-Empress.webp" alt="Elegance of the Empress" className="image" />
                             <p className="unit-name">Elegance of the Empress</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Mercy-of-the-High-Pristess.webp" alt="Mercy of the High Pristess" className="image" />
+                            <img src="\assets\Tarot\Mercy-of-the-High-Pristess.webp" alt="Mercy of the High Pristess" className="image" />
                             <p className="unit-name">Mercy of the High Pristess</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Silence-of-the-Hermit.webp" alt="Silence of the Hermit" className="image" />
+                            <img src="\assets\Tarot\Silence-of-the-Hermit.webp" alt="Silence of the Hermit" className="image" />
                             <p className="unit-name">Silence of the Hermit</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Redemption-of-the-Judgment.webp" alt="Redemption of the Judgment" className="image" />
+                            <img src="\assets\Tarot\Redemption-of-the-Judgment.webp" alt="Redemption of the Judgment" className="image" />
                             <p className="unit-name">Redemption of the Judgment</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Destruction-of-the-Tower.webp" alt="Destruction of the Tower" className="image" />
+                            <img src="\assets\Tarot\Destruction-of-the-Tower.webp" alt="Destruction of the Tower" className="image" />
                             <p className="unit-name">Destruction of the Tower</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Hierophants-Laws.webp" alt="Hierophants Laws" className="image" />
+                            <img src="\assets\Tarot\Hierophants-Laws.webp" alt="Hierophants Laws" className="image" />
                             <p className="unit-name">Hierophants Laws</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Source-of-Strength.webp" alt="Source of Strength" className="image" />
+                            <img src="\assets\Tarot\Source-of-Strength.webp" alt="Source of Strength" className="image" />
                             <p className="unit-name">Source of Strength</p>
                           </div>
                           
@@ -88,23 +88,23 @@ const TarotTierList = () => {
                         <>
                         <div className='flex'>
                         <div className="card">
-                            <img src="public\assets\Tarot\Desire-for-Temperance.webp" alt="Desire for Temperance" className="image" />
+                            <img src="\assets\Tarot\Desire-for-Temperance.webp" alt="Desire for Temperance" className="image" />
                             <p className="unit-name">Desire for Temperance</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Course-of-Fortune.webp" alt="Course of Fortune" className="image" />
+                            <img src="\assets\Tarot\Course-of-Fortune.webp" alt="Course of Fortune" className="image" />
                             <p className="unit-name">Course of Fortune</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Gibbous-Moon.webp" alt="Gibbous Moon" className="image" />
+                            <img src="\assets\Tarot\Gibbous-Moon.webp" alt="Gibbous Moon" className="image" />
                             <p className="unit-name">Gibbous Moon</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\Rays-of-the-Sun.webp" alt="Rays of the Sun" className="image" />
+                            <img src="\assets\Tarot\Rays-of-the-Sun.webp" alt="Rays of the Sun" className="image" />
                             <p className="unit-name">Rays of the Sun</p>
                           </div>
                           <div className="card">
-                            <img src="public\assets\Tarot\The-Fools-Naivety.webp" alt="The Fools Naivety" className="image" />
+                            <img src="\assets\Tarot\The-Fools-Naivety.webp" alt="The Fools Naivety" className="image" />
                             <p className="unit-name">The Fools Naivety</p>
                           </div>
                           
@@ -115,7 +115,7 @@ const TarotTierList = () => {
                         <>
                         <div className='flex'>
                         <div className="card">
-                            <img src="public\assets\Tarot\March-of-the-Chariot.webp" alt="March of the Chariot" className="image" />
+                            <img src="\assets\Tarot\March-of-the-Chariot.webp" alt="March of the Chariot" className="image" />
                             <p className="unit-name">March of the Chariot</p>
                           </div>
                         

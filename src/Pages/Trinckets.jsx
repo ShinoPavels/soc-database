@@ -10,63 +10,63 @@ const Trinckets = () => {
   const TrincketPage = [
     {
       name: 'Augusts Old Notes',
-      imgSrc: 'public/assets/Gear-Legendary/Augusts-Old-Notes-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Augusts-Old-Notes-Cd.webp',
       link: '/TrincketPage/AugustsOldNotes',
       rarity: 'Legendary',
     },
     
     {
       name: 'Berserk Incense',
-      imgSrc: 'public/assets/Gear-Legendary/Berserk-Incense-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Berserk-Incense-Cd.webp',
       link: '/TrincketPage/BerserkIncense',
       rarity: 'Legendary',
     },
     
     {
       name: 'Burning Flint',
-      imgSrc: 'public/assets/Gear-Legendary/Burning-Flint-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Burning-Flint-Cd.webp',
       link: '/TrincketPage/BurningFlint',
       rarity: 'Legendary',
     },
     
     {
       name: 'Coexist Armor',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Coexist-Armor-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Coexist-Armor-Cd.webp',
       link: '/TrincketPage/CoexistArmor',
       rarity: 'Epic',
     },
     
     {
       name: 'Cooling Powder',
-      imgSrc: 'public/assets/Gear-Legendary/Cooling-Powder-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Cooling-Powder-Cd.webp',
       link: '/TrincketPage/CoolingPowder',
       rarity: 'Legendary',
     },
     
     {
       name: 'Crystal Burst Armor',
-      imgSrc: 'public/assets/Gear-Legendary/Crystal-Burst-Armor-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Crystal-Burst-Armor-Cd.webp',
       link: '/TrincketPage/CrystalBurstArmor',
       rarity: 'Legendary',
     },
     
     {
       name: 'Disaster Bottle',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Disaster-Bottle-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Disaster-Bottle-Cd.webp',
       link: '/TrincketPage/DisasterBottle',
       rarity: 'Epic',
     },
     
     {
       name: 'Evergreen Pendent',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Evergreen-Pendent-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Evergreen-Pendent-Cd.webp',
       link: '/TrincketPage/EvergreenPendent',
       rarity: 'Epic',
     },
     
     {
       name: 'Exploding Crystal',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Exploding-Crystal-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Exploding-Crystal-Cd.webp',
       link: '/TrincketPage/ExplodingCrystal',
       rarity: 'Epic',
     },
@@ -74,105 +74,105 @@ const Trinckets = () => {
 
     {
       name: 'Fancy Hat',
-      imgSrc: 'public/assets/Gear-Legendary/Fancy-Hat-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Fancy-Hat-Cd.webp',
       link: '/TrincketPage/FancyHat',
       rarity: 'Legendary',
     },
     
     {
       name: 'Flying Blade Arm Guard',
-      imgSrc: 'public/assets/Gear-Legendary/Flying-Blade-Arm-Guard-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Flying-Blade-Arm-Guard-Cd.webp',
       link: '/TrincketPage/FlyingBladeArmGuard',
       rarity: 'Legendary',
     },
     
     {
       name: 'Hunter\'s-Intuition',
-      imgSrc: 'public/assets/Gear-Legendary/Hunters-Intuition-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Hunters-Intuition-Cd.webp',
       link: '/TrincketPage/HuntersIntuition',
       rarity: 'Legendary',
     },
     
     {
       name: 'Ink Totem',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Ink-Totem-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Ink-Totem-Cd.webp',
       link: '/TrincketPage/InkTotem',
       rarity: 'Epic',
     },
     
     {
       name: 'Luxite Greatshield',
-      imgSrc: 'public/assets/Gear-Legendary/Luxite-Greatshield-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Luxite-Greatshield-Cd.webp',
       link: '/TrincketPage/LuxiteGreatshield',
       rarity: 'Legendary',
     },
     
     {
       name: 'Mavericks Cloak',
-      imgSrc: 'public/assets/Gear-Legendary/Mavericks-Cloak-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Mavericks-Cloak-Cd.webp',
       link: '/TrincketPage/MavericksCloak',
       rarity: 'Legendary',
     },
     
     {
       name: 'Mist Necklace',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Mist-Necklace-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Mist-Necklace-Cd.webp',
       link: '/TrincketPage/MistNecklace',
       rarity: 'Epic',
     },
     
     {
       name: 'Mysterious Deflexion Device',
-      imgSrc: 'public/assets/Gear-Legendary/Mysterious-Deflexion-Device-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Mysterious-Deflexion-Device-Cd.webp',
       link: '/TrincketPage/MysteriousDeflexionDevice',
       rarity: 'Legendary',
     },
     
     {
       name: 'Mystery Guardian',
-      imgSrc: 'public/assets/Gear-Legendary/Mystery-Guardian-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Mystery-Guardian-Cd.webp',
       link: '/TrincketPage/MysteryGuardian',
       rarity: 'Legendary',
     },
     
     {
       name: 'Origin Hourglass',
-      imgSrc: 'public/assets/Gear-Legendary/Origin-Hourglass-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Origin-Hourglass-Cd.webp',
       link: '/TrincketPage/OriginHourglass',
       rarity: 'Legendary',
     },
     
     {
       name: 'Rejection Mask',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Rejection-Mask-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Rejection-Mask-Cd.webp',
       link: '/TrincketPage/RejectionMask',
       rarity: 'Epic',
     },
     
     {
       name: 'Shroud of Void',
-      imgSrc: 'public/assets/Gear-Legendary/Shroud-Of-Void-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Shroud-Of-Void-Cd.webp',
       link: '/TrincketPage/ShroudOfVoid',
       rarity: 'Legendary',
     },
     
     {
       name: 'Space Time Ring',
-      imgSrc: 'public/assets/Gear-Legendary/Space-Time-Ring-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Space-Time-Ring-Cd.webp',
       link: '/TrincketPage/SpaceTimeRing',
       rarity: 'Legendary',
     },
     
     {
       name: 'Spring Pill',
-      imgSrc: 'public/assets/Gear-Legendary/Spring-Pill-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Spring-Pill-Cd.webp',
       link: '/TrincketPage/SpringPill',
       rarity: 'Legendary',
     },
     
     {
       name: 'Spring Tonic',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Spring-Tonic-Cd.png',
+      imgSrc: '/assets/Gear-Gold-or-Below/Spring-Tonic-Cd.png',
       link: '/TrincketPage/SpringTonic',
       rarity: 'Epic',
     },
@@ -180,21 +180,21 @@ const Trinckets = () => {
     
     {
       name: 'Thorny Ring',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Thorny-Ring-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Thorny-Ring-Cd.webp',
       link: '/TrincketPage/ThornyRing',
       rarity: 'Epic',
     },
     
     {
       name: 'True Lens',
-      imgSrc: 'public/assets/Gear-Legendary/True-Lens-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/True-Lens-Cd.webp',
       link: '/TrincketPage/TrueLens',
       rarity: 'Legendary',
     },
     
     {
       name: 'Unique Coat',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Unique-Coat-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Unique-Coat-Cd.webp',
       link: '/TrincketPage/UniqueCoat',
       rarity: 'Epic',
     },

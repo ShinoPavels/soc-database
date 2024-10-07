@@ -14,7 +14,7 @@ const Tempest = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Tempest-Profile.webp" alt="Tempest" title='Tempest' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Tempest\Tempest-Profile.webp" alt="Tempest" title='Tempest' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const Tempest = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Stormrage-Trait.webp" alt="Stormage" title='Stormage'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Stormrage-Trait.webp" alt="Stormage" title='Stormage'></img>
                 <h1>Stormage :
                     <h2>After initiating an Active Attack, gains [Wind Armor]. Effect: Increases DEF by 50%. After being attacked, gains [Windfury]. Effect: Increases ATK by 25%. All effects last for 2 turns.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const Tempest = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Knockback-Bash.webp" alt="Knockback Bash" title='Knockback Bash'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Knockback-Bash.webp" alt="Knockback Bash" title='Knockback Bash'></img>
                 <h1>Knockback Bash :
                     <h2>(Physical DMG) Single-target attack. Deals 140% DMG and knocks the target back by 2 tiles.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const Tempest = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Knightly-Spirit.webp" alt="Knightly Spirit" title='Knightly Spirit'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Knightly-Spirit.webp" alt="Knightly Spirit" title='Knightly Spirit'></img>
                 <h1>Knightly Spirit :
                     <h2>(Passive) Increases ATK by 20% when attacking enemies from the [front]. Increases DEF by 40% when being attacked from the [front].</h2>
                 </h1>
@@ -149,7 +149,7 @@ const Tempest = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Inertial-Chop.webp" alt="Inertial Chop" title='Inertial Chop'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Inertial-Chop.webp" alt="Inertial Chop" title='Inertial Chop'></img>
                 <h1>Inertial Chop :
                     <h2>(Passive) After initiating an Active Attack, deals 20% physical DMG to all enemies within a 1-tile radius of the character.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const Tempest = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Stormrage-Strike.webp" alt="Stormrage Strike" title='Stormrage Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Stormrage-Strike.webp" alt="Stormrage Strike" title='Stormrage Strike'></img>
                 <h1>Stormrage Strike :
                     <h2>(Physical DMG) Charges at 1 enemy within a cross-shaped range around the character, dealing 150% DMG. When having [Windfury], knocks the target back by 2 tiles.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const Tempest = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Knights-Glory.webp" alt="Knight’s Glory" title='Knight’s Glory'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Knights-Glory.webp" alt="Knight’s Glory" title='Knight’s Glory'></img>
                 <h1>Knight’s Glory :
                     <h2>(Support) [Instant] Grants the target [▲ATK 2] for 2 turns. When the targets are from [The Union], the character gains an additional [Physical Shield] equal to 20% of HP.</h2>
                 </h1>
@@ -176,7 +176,7 @@ const Tempest = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\NRG-Recovery.webp" alt="NRG Recovery" title='NRG Recovery'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\NRG-Recovery.webp" alt="NRG Recovery" title='NRG Recovery'></img>
                 <h1>NRG Recovery :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Upon receiving an active attack, additionally recovers 1 NRG.	</h2>
                 </h1>
@@ -185,7 +185,7 @@ const Tempest = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Storm-Trample.webp" alt="Storm Trample" title='Storm Trample'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Storm-Trample.webp" alt="Storm Trample" title='Storm Trample'></img>
                 <h1>Storm Trample :
                     <h2>(Reaction) Before receiving a Melee Attack from the [front or side], deals 50% physical DMG to all enemies within 1 tile around the character. If having [Wind Armor], additionally inflicts [▼DMG 2] for 1 turn. Can be triggered up to 1 time per round.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const Tempest = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Will-to-Survive.webp" alt="Will to Survive" title='Will to Survive'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Will-to-Survive.webp" alt="Will to Survive" title='Will to Survive'></img>
                 <h1>Will to Survive :
                     <h2>(Passive) If the character is [Dying] at the start of the turn, recovers 50 % HP and 2 NRG. Effect CD: 2 turns.	</h2>
                 </h1>
@@ -203,7 +203,7 @@ const Tempest = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Crescendo-Combo.webp" alt="Crescendo Combo" title='Crescendo Combo'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Crescendo-Combo.webp" alt="Crescendo Combo" title='Crescendo Combo'></img>
                 <h1>Crescendo Combo :
                     <h2>(Physical DMG) Single-target attack. Deals 30% DMG and dispels 2 [Buffs] on the target, then performs [Pursuit], dealing 130% DMG.</h2>
                 </h1>
@@ -212,7 +212,7 @@ const Tempest = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
                 <h1>Dispelling Strike :
                     <h2>(Basic Attack) Deals 100% Physical DMG and dispels 2 [Buffs] on the target.</h2>
                 </h1>
@@ -221,7 +221,7 @@ const Tempest = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Tempest\Charged-Attack.webp" alt="Charged Attack" title='Charged Attack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Tempest\Charged-Attack.webp" alt="Charged Attack" title='Charged Attack'></img>
                 <h1>Charged Attack :
                     <h2>(Basic Attack) Deals 100% physical DMG and increases the DMG of the next skill by 15%.</h2>
                 </h1>

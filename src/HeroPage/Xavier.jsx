@@ -14,7 +14,7 @@ const Xavier = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Xavier\Xavier-Profile.webp" alt="Xavier" title='Xavier' className=''></img>
+          <img src="\assets\Hero-Art-Out\Xavier\Xavier-Profile.webp" alt="Xavier" title='Xavier' className=''></img>
 
         </div>
         
@@ -153,7 +153,7 @@ Xavier is ready and willing to lay his life down for his country.
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Solo-Carry.webp" alt="Solo Carry" title='Solo Carry'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Solo-Carry.webp" alt="Solo Carry" title='Solo Carry'></img>
                 <h1>Solo Carry :
                     <h2>For each enemy within a range of 2 tiles around Xavier, his ATK increases by 8%, up to 32%. At the start or end of the turn, if there are enemies within a 1-tile radius around him, he deals an additional 40% Physical DMG.</h2>
                 </h1>
@@ -161,7 +161,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Sweeping-Bash.webp" alt="Sweeping Bash" title='Sweeping Bash'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Sweeping-Bash.webp" alt="Sweeping Bash" title='Sweeping Bash'></img>
                 <h1>Sweeping Bash :
                     <h2>(Physical DMG) Deals 80% DMG to all enemies within a 3×2 area in the target direction and inflicts [▼P.DEF 1], lasting for 2 turns.</h2>
                 </h1>
@@ -169,7 +169,7 @@ Xavier is ready and willing to lay his life down for his country.
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Battle-Fever.webp" alt="Combat Frenzy" title='Combat Frenzy'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Battle-Fever.webp" alt="Combat Frenzy" title='Combat Frenzy'></img>
                 <h1>Combat Frenzy :
                     <h2>(Passive) After dealing DMG on the character’s turn, grants 20% [Life Steal].</h2>
                 </h1>
@@ -178,7 +178,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Sacrifice.webp" alt="Risky Move" title='Risky Move'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Sacrifice.webp" alt="Risky Move" title='Risky Move'></img>
                 <h1>Risky Move :
                     <h2>(Passive) P.ATK increases by 20% but P.DEF and M.DEF are decreased by 15%.</h2>
                 </h1>
@@ -187,7 +187,7 @@ Xavier is ready and willing to lay his life down for his country.
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Legacy-of-Comrades.webp" alt="Legacy of Comrades" title='Legacy of Comrades'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Legacy-of-Comrades.webp" alt="Legacy of Comrades" title='Legacy of Comrades'></img>
                 <h1>Legacy of Comrades :
                     <h2>(Passive) When an ally in battle is defeated, recovers 30% HP for the character, and the character gains [▲ATK 2], [▲P.DEF 2], and [▲M.DEF 2] for 3 turns.</h2>
                 </h1>
@@ -196,7 +196,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Chaotic-Battle.webp" alt="Chaotic Battle" title='Chaotic Battle'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Chaotic-Battle.webp" alt="Chaotic Battle" title='Chaotic Battle'></img>
                 <h1>Chaotic Battle :
                     <h2>(Physical DMG) Xavier deals 70% DMG to all enemies within 2 tiles around him, generating 40% [Life Steal] and inflicting [▼Healing Received] for 2 turns.</h2>
                 </h1>
@@ -205,7 +205,7 @@ Xavier is ready and willing to lay his life down for his country.
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Indomitable-Spirit.webp" alt="Indomitable Spirit" title='Indomitable Spirit'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Indomitable-Spirit.webp" alt="Indomitable Spirit" title='Indomitable Spirit'></img>
                 <h1>Indomitable Spirit :
                     <h2>(Reaction) For each enemy within 2 tiles before being attacked, decreases the incoming DMG by 10%, up to 40%.</h2>
                 </h1>
@@ -214,7 +214,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Activate-the-Power.webp" alt="Strength Activation" title='Strength Activation'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Activate-the-Power.webp" alt="Strength Activation" title='Strength Activation'></img>
                 <h1>Strength Activation :
                     <h2>(Reaction) Increases the healing received by 10%. When receiving healing, gains [▲DMG 2] for 1 turn.</h2>
                 </h1>
@@ -223,7 +223,7 @@ Xavier is ready and willing to lay his life down for his country.
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Pioneer-Comp.webp" alt="Spear of Iria" title='Spear of Iria'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Pioneer-Comp.webp" alt="Spear of Iria" title='Spear of Iria'></img>
                 <h1>Spear of Iria :
                     <h2>(Passive) At the start of the round, fully recovers NRG and gains [▲SPD 3] for 2 turns. All effects have a CD of 5 turns.</h2>
                 </h1>
@@ -232,7 +232,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Iria-Banner.webp" alt="Battle Flag of Iria" title='Battle Flag of Iria'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Iria-Banner.webp" alt="Battle Flag of Iria" title='Battle Flag of Iria'></img>
                 <h1>Battle Flag of Iria :
                     <h2>(Leader’s Aura) For all Iria allies in battle, increases ATK by 10% and DEF by 20%.</h2>
                 </h1>
@@ -241,7 +241,7 @@ Xavier is ready and willing to lay his life down for his country.
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Charged-Strike.webp" alt="Charged Attack" title='Charged Attack'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Charged-Strike.webp" alt="Charged Attack" title='Charged Attack'></img>
                 <h1>Charged Attack :
                     <h2>(Basic Attack) Deals 100% Physical DMG and increases the DMG of the next skill by 15%.</h2>
                 </h1>
@@ -250,7 +250,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Frenzy-Attack.webp" alt="Feverish Attack" title='Feverish Attack'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Frenzy-Attack.webp" alt="Feverish Attack" title='Feverish Attack'></img>
                 <h1>Feverish Attack :
                     <h2>(Basic Attack) Deals 100% physical DMG and gains 20% [Life Steal].</h2>
                 </h1>
@@ -260,7 +260,7 @@ Xavier is ready and willing to lay his life down for his country.
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Falling-Comet-Dash.webp" alt="Falling Comet Dash" title='Falling Comet Dash'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Falling-Comet-Dash.webp" alt="Falling Comet Dash" title='Falling Comet Dash'></img>
                 <h1>Spear of Iria :
                     <h2>(Physical DMG) Xavier selects 1 spot within a cross-shaped range around him, charges to the location, and deals 90% DMG to enemies within a 3×4 area in the target direction. Inflicts [▼SPD 2] for 2 turns.</h2>
                 </h1>
@@ -269,7 +269,7 @@ Xavier is ready and willing to lay his life down for his country.
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Xavier\Musau.webp" alt="Musou" title='Musou'></img>
+                <img src="\assets\Hero-Art-Out\Xavier\Musau.webp" alt="Musou" title='Musou'></img>
                 <h1>Musou :
                     <h2>(Physical DMG) Xavier deals 110% DMG to all enemies within a 3×1 area in the target direction, knocking them back by 2 tiles. After attacking, he gains [Parry] and [Preempt] for 2 turns.</h2>
                 </h1>

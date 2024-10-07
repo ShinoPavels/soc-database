@@ -14,7 +14,7 @@ const Schacklulu = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Inc\Schacklulu\Schacklulu-Profile.webp" alt="Schacklulu" title='Schacklulu' className=''></img>
+          <img src="\assets\Hero-Art-Inc\Schacklulu\Schacklulu-Profile.webp" alt="Schacklulu" title='Schacklulu' className=''></img>
 
         </div>
         
@@ -136,7 +136,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Killing-Under-the-Skirt-Trait.webp" alt="Killing Under the Skirt" title='Killing Under the Skirt'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Killing-Under-the-Skirt-Trait.webp" alt="Killing Under the Skirt" title='Killing Under the Skirt'></img>
                 <h1>Killing Under the Skirt :
                     <h2>Attack increased by 10%. [Sting] adds [Piercing Damage], which is 40% of the player’s Physical Attack. When triggered, it restores 1 energy point, and then [Charm], [Stunning Stance] skill cooldown reduced by 1 round, can be triggered once per round at most. When using [Long-range Skill], maximum range increased by 1 grid.</h2>
                 </h1>
@@ -144,7 +144,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Continuous-Stab.webp" alt="Continuous Stab" title='Continuous Stab'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Continuous-Stab.webp" alt="Continuous Stab" title='Continuous Stab'></img>
                 <h1>Continuous Stab :
                     <h2>(Physical Damage) Deals 45% damage 3 times. When attacking, increases critical hit chance by 20%.</h2>
                 </h1>
@@ -152,7 +152,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Lock.webp" alt="Lock" title='Lock'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Lock.webp" alt="Lock" title='Lock'></img>
                 <h1>Lock :
                     <h2>(Passive) When the action starts, inflict [▼Physical Defense 2], lasts for 1 round.</h2>
                 </h1>
@@ -161,7 +161,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Hunting-Nature.webp" alt="Hunting Nature" title='Hunting Nature'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Hunting-Nature.webp" alt="Hunting Nature" title='Hunting Nature'></img>
                 <h1>Hunting Nature :
                     <h2>(Passive) When in [Invulnerable] state, the movement speed increases by 1 square. When the movement and charge distance is greater than 3 squares, the attack speed increases by 15%, and the effect lasts until the action ends.</h2>
                 </h1>
@@ -170,7 +170,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Charm.webp" alt="Charm" title='Charm'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Charm.webp" alt="Charm" title='Charm'></img>
                 <h1>Charm :
                     <h2>(Debuff) [Instant], upon hitting, increases the target’s [Continuous Damage] by 30%, lasting for 2 rounds;[Health] Status enemies apply additional [Charm], lasts for 1 round.</h2>
                 </h1>
@@ -179,7 +179,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Stunning-Beauty.webp" alt="Stunning Beauty" title='Stunning Beauty'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Stunning-Beauty.webp" alt="Stunning Beauty" title='Stunning Beauty'></img>
                 <h1>Stunning Beauty :
                     <h2>(Physical Damage) [Instant], choose a location within the cross range, charge to that location and attack random enemies within 2 grids twice, each time causing 10% [Range Damage]. If the [Personality] skill damage is triggered during this round of action, you can release [Amazing Stance] again without consumption after the attack.</h2>
                 </h1>
@@ -188,7 +188,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Curse.webp" alt="Curse" title='Curse'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Curse.webp" alt="Curse" title='Curse'></img>
                 <h1>Curse :
                     <h2>(Reaction) When actively attacked, the damage received is reduced by 8%. After being actively attacked, the opponent is inflicted [Vulnerable 2], lasts for 2 rounds.</h2>
                 </h1>
@@ -197,7 +197,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Close-yet-Distant.webp" alt="Close yet Distant" title='Close yet Distant'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Close-yet-Distant.webp" alt="Close yet Distant" title='Close yet Distant'></img>
                 <h1>Close yet Distant :
                     <h2>(Reaction)[Health] Before the character in the state of melee attacks, he gains 2 [Dodge], lasts for 1 round, and exchanges positions with the target, cools down for 3 rounds.</h2>
                 </h1>
@@ -206,7 +206,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Linger.webp" alt="Linger" title='Linger'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Linger.webp" alt="Linger" title='Linger'></img>
                 <h1>Linger :
                     <h2>(Passive) use [Charm], [Shocking Stance] After hitting the target, restore 1 energy to the player. This triggers once per round. [Health] Status: [▼Attack 2],[Linger and forget about it], lasts for 2 rounds.</h2>
                 </h1>
@@ -215,7 +215,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\End-of-the-Song.webp" alt="End of the Song" title='End of the Song'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\End-of-the-Song.webp" alt="End of the Song" title='End of the Song'></img>
                 <h1>End of the Song :
                     <h2>(Physical Damage) Attacks random enemies within 3 grids of itself, causing 8 damages, each time causing 20% ​​[Range Damage] (Can trigger [Personality] effect repeatedly).</h2>
                 </h1>
@@ -224,7 +224,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Hypnotic-Strike.webp" alt="Hypnotic Strike" title='Hypnotic Strike'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Hypnotic-Strike.webp" alt="Hypnotic Strike" title='Hypnotic Strike'></img>
                 <h1>Hypnotic Strike :
                     <h2>(Normal attack) Causes 50% physical damage twice, with a 30% chance to inflict [Sleep], lasts for 1 round.</h2>
                 </h1>
@@ -233,7 +233,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\The-Flying-Thorn.webp" alt="The Flying Thorn" title='The Flying Thorn'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\The-Flying-Thorn.webp" alt="The Flying Thorn" title='The Flying Thorn'></img>
                 <h1>The Flying Thorn :
                     <h2>(Normal attack) Causes 33% physical damage 3 times.</h2>
                 </h1>
@@ -243,7 +243,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Poison-Blade-Throw.webp" alt="Poison Blade Throw" title='Poison Blade Throw'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Poison-Blade-Throw.webp" alt="Poison Blade Throw" title='Poison Blade Throw'></img>
                 <h1>Poison Blade Throw :
                     <h2>(Physical Damage) Single attack, causing 2 times of 35% damage, applying 2 layers each time [Infect].</h2>
                 </h1>
@@ -252,7 +252,7 @@ Whether in performances or battles, her figure is the focus of everyone’s atte
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Schacklulu\Evasion-Step.webp" alt="Evasion Step" title='Evasion Step'></img>
+                <img src="\assets\Hero-Art-Inc\Schacklulu\Evasion-Step.webp" alt="Evasion Step" title='Evasion Step'></img>
                 <h1>Evasion Step :
                     <h2>(Support) Reduce [Area Damage] by 50%, gain 2 times [Dodge], lasts for 2 rounds.</h2>
                 </h1>

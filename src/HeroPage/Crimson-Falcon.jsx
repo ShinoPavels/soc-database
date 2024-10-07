@@ -14,7 +14,7 @@ const CrimsonFalcon = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Crimson-Falcon-Profile.webp" alt="Crimson Falcon" title='Crimson Falcon' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Crimson-Falcon-Profile.webp" alt="Crimson Falcon" title='Crimson Falcon' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const CrimsonFalcon = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Ghost-On-The-Battlefield.webp" alt="Ghost on the Battlefield" title='Ghost on the Battlefield'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Ghost-On-The-Battlefield.webp" alt="Ghost on the Battlefield" title='Ghost on the Battlefield'></img>
                 <h1>Ghost on the Battlefield :
                     <h2>Gains [Jump]. When attacking enemies from the [side or behind], deals 30% more DMG. After defeating the target, can move again by 3 tiles.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const CrimsonFalcon = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Flurry-of-Stabs.webp" alt="Flurry of Stabs" title='Flurry of Stabs'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Flurry-of-Stabs.webp" alt="Flurry of Stabs" title='Flurry of Stabs'></img>
                 <h1>Flurry of Stabs :
                     <h2>(Physical DMG) Deals 45% DMG 3 times. When attacking, Crit increases by 20%.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const CrimsonFalcon = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Inspiration-of-Comrades.webp" alt="Inspiration of Comrades" title='Inspiration of Comrades'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Inspiration-of-Comrades.webp" alt="Inspiration of Comrades" title='Inspiration of Comrades'></img>
                 <h1>Inspiration of Comrades :
                     <h2>(Passive) At the start of the turn, if there are 2 or more allies Within 2 tiles around the character, gains [▲DMG 2] for 1 turn. When hit by an active attack, if there are 2 or more allies within 2 tiles around the character, decreases DMG taken by 20%.</h2>
                 </h1>
@@ -149,7 +149,7 @@ const CrimsonFalcon = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Ambush.webp" alt="Ambush" title='Ambush'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Ambush.webp" alt="Ambush" title='Ambush'></img>
                 <h1>Ambush :
                     <h2>(Passive) When performing an active attack, if the target is [Unharmed], deals 20% Physical DMG. When performing a [back attack] on [unharmed] targets, additionally inflicts [🛇Passive Skills] for 1 turn.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const CrimsonFalcon = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Precise-Strike.webp" alt="Precise Strike" title='Precise Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Precise-Strike.webp" alt="Precise Strike" title='Precise Strike'></img>
                 <h1>Precise Strike :
                     <h2>(Passive) When performing an active attack, Crit increases by 15%. If the character performs a [back attack], Crit increases by 40%.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const CrimsonFalcon = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Lock-On.webp" alt="Lock-On" title='Lock-On'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Lock-On.webp" alt="Lock-On" title='Lock-On'></img>
                 <h1>Lock-On :
                     <h2>(Passive) At the start of the turn, inflicts [P.DEF 2] on the enemy with the highest P.ATK within a 6-tile radius around the character for 1 turn.</h2>
                 </h1>
@@ -176,7 +176,7 @@ const CrimsonFalcon = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Fleeing-Hare.webp" alt="Fleeing Hare" title='Fleeing Hare'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Fleeing-Hare.webp" alt="Fleeing Hare" title='Fleeing Hare'></img>
                 <h1>Fleeing Hare :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. After being attacked, the character gains [▲Move 2] for 2 turns.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const CrimsonFalcon = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Vital-Guard.webp" alt="Vital Guard" title='Vital Guard'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Vital-Guard.webp" alt="Vital Guard" title='Vital Guard'></img>
                 <h1>Vital Guard :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Upon receiving an active attack, if the characteris [Dying], gains [Dodge] for 1 turn. Can be activated up to 1 time per round.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const CrimsonFalcon = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Shadow-Gait.webp" alt="Shadow Gait" title='Shadow Gait'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Shadow-Gait.webp" alt="Shadow Gait" title='Shadow Gait'></img>
                 <h1>Shadow Gait :
                     <h2>(Support) [Instant] Teleports behind the enemy and steals 1 random [Attribute Buff] from the target.</h2>
                 </h1>
@@ -203,7 +203,7 @@ const CrimsonFalcon = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Battle-Fever.webp" alt="Battle Fever" title='Battle Fever'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Battle-Fever.webp" alt="Battle Fever" title='Battle Fever'></img>
                 <h1>Battle Fever :
                     <h2>(Passive) After initiating an Active Attack, the character takes 15% less DMG. Dealing a Crit DMG additionally decreases DMG taken by 25% for 1 turn.</h2>
                 </h1>
@@ -212,7 +212,7 @@ const CrimsonFalcon = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Armor-Piercing-Strike.webp" alt="Armor-Piercing Strike" title='Armor-Piercing Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Armor-Piercing-Strike.webp" alt="Armor-Piercing Strike" title='Armor-Piercing Strike'></img>
                 <h1>Armor-Piercing Strike :
                     <h2>(Basic Attack) Deals 50% Pyhsical DMG 2 times and inflicts [▼P.DEF 1] and [▼M.DEF 1] on the target for 2 turns.</h2>
                 </h1>
@@ -221,7 +221,7 @@ const CrimsonFalcon = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Crimson-Falcon\Powerful-Attack.webp" alt="Powerful Attack" title='Powerful Attack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Crimson-Falcon\Powerful-Attack.webp" alt="Powerful Attack" title='Powerful Attack'></img>
                 <h1>Powerful Attack :
                     <h2>(Basic Attack) Deals 55% Physical DMG 2 times.</h2>
                 </h1>

@@ -14,7 +14,7 @@ const Homa = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Inc\Homa\Homa-Profile.webp" alt="Homa" title='Homa' className=''></img>
+          <img src="\assets\Hero-Art-Inc\Homa\Homa-Profile.webp" alt="Homa" title='Homa' className=''></img>
 
         </div>
         
@@ -136,7 +136,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Best-Partner-Trait.webp" alt="Best Partner" title='Best Partner'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Best-Partner-Trait.webp" alt="Best Partner" title='Best Partner'></img>
                 <h1>Best Partner :
                     <h2>Ignore Block, increase Physical Attack by 20%.[healthy], the movement speed increases by 1. After the player or the friendly unit that [Balu] is staying on attacks, it will call [Balu] to continue attacking, causing physical damage equal to 40% of its own physical attack value, and stealing 2 random [Buffs] and 1 energy for [Homa].</h2>
                 </h1>
@@ -144,7 +144,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Repel-Shot.webp" alt="Repel Shot" title='Repel Shot'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Repel-Shot.webp" alt="Repel Shot" title='Repel Shot'></img>
                 <h1>Repel Shot :
                     <h2>(Physical Damage) Select an enemy within the cross range, deal 135% damage, and knock them back 2 squares.</h2>
                 </h1>
@@ -152,7 +152,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Circling-Aid.webp" alt="Circling Aid" title='Circling Aid'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Circling-Aid.webp" alt="Circling Aid" title='Circling Aid'></img>
                 <h1>Circling Aid :
                     <h2>(Support) [Instant], allowing [Balu] to stay on the target, giving it[▲Move 2], [Jump], both parties gain[▲Attack 2] During this period, when calling [Baalur] to attack or heal, it will cause 1.5 times the effect of the corresponding skill, which lasts for 2 rounds.	</h2>
                 </h1>
@@ -161,7 +161,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Tacit-Choice.webp" alt="Tacit Choice" title='Tacit Choice'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Tacit-Choice.webp" alt="Tacit Choice" title='Tacit Choice'></img>
                 <h1>Tacit Choice :
                     <h2>(Choice) Choose to use[Wings Flutter]or[Cool breeze].</h2>
                 </h1>
@@ -170,7 +170,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Shield-Break.webp" alt="Shield Break" title='Shield Break'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Shield-Break.webp" alt="Shield Break" title='Shield Break'></img>
                 <h1>Shield Break :
                     <h2>(Passive) Attack possession [Shield] When attacking an enemy, attack increases by 30% and defense is ignored by 40%.</h2>
                 </h1>
@@ -179,7 +179,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Harmony.webp" alt="Harmony" title='Harmony'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Harmony.webp" alt="Harmony" title='Harmony'></img>
                 <h1>Harmony :
                     <h2>(Passive) At the end of the action, if you have [normal attack] or used a skill, heal all allies within 2 squares of yourself, the healing amount is 20% of the physical attack value, and disperse 1 [Deduction].</h2>
                 </h1>
@@ -188,7 +188,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Flying-Shadow-Game.webp" alt="Flying Shadow Game" title='Flying Shadow Game'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Flying-Shadow-Game.webp" alt="Flying Shadow Game" title='Flying Shadow Game'></img>
                 <h1>Flying Shadow Game :
                     <h2>(Reaction) Before being attacked by an enemy from the back or side, call on [Shahin] to inflict [Blind], lasts for 1 round, and can be activated at most once per round.[Dodge]After that, proceed[Counterattack], which can cause 70% physical damage and move itself back 2 squares.</h2>
                 </h1>
@@ -197,7 +197,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Fleeing-Hare.webp" alt="Fleeing-Hare" title='Fleeing-Hare'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Fleeing-Hare.webp" alt="Fleeing-Hare" title='Fleeing-Hare'></img>
                 <h1>Fleeing-Hare :
                     <h2>(Reaction) When actively attacked, the damage received is reduced by 8%. After being attacked, you gain[▲Move 2], lasts for 2 rounds.</h2>
                 </h1>
@@ -206,7 +206,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Scattering.webp" alt="Scattering" title='Scattering'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Scattering.webp" alt="Scattering" title='Scattering'></img>
                 <h1>Scattering :
                     <h2>(Physical Damage) Deals 70% [Area Damage] to all enemies in a 3*3 area in the target direction, applying[▼Move 1], lasts for 2 rounds.</h2>
                 </h1>
@@ -215,7 +215,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Brawl-Shooter.webp" alt="Brawl Shooter" title='Brawl Shooter'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Brawl-Shooter.webp" alt="Brawl Shooter" title='Brawl Shooter'></img>
                 <h1>Brawl Shooter :
                     <h2>(Passive) When performing a normal attack, you can attack enemies adjacent to you. When there is an enemy in the surrounding area, the attack rate increases by 15% and the critical hit rate increases by 30%.</h2>
                 </h1>
@@ -224,7 +224,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Fighting-Blades.webp" alt="Fighting Blades" title='Fighting Blades'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Fighting-Blades.webp" alt="Fighting Blades" title='Fighting Blades'></img>
                 <h1>Fighting Blades :
                     <h2>(Basic Attack) Deals 80% Magical DMG and inflicts [🛇Passive Skills] on [Injured] targets before attacking, lasting for 2 turns.Frost Strike</h2>
                 </h1>
@@ -233,7 +233,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Frost-Strike.webp" alt="Frost Strike" title='Frost Strike'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Frost-Strike.webp" alt="Frost Strike" title='Frost Strike'></img>
                 <h1>Frost Strike :
                     <h2>(Normal attack) causes 100% physical damage to [healthy] Status: [▼Move 1], lasts for 1 round.</h2>
                 </h1>
@@ -243,7 +243,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Pierce.webp" alt="Pierce" title='Pierce'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Pierce.webp" alt="Pierce" title='Pierce'></img>
                 <h1>Pierce :
                     <h2>(Physical Damage) Single attack, causing 150% damage. The target is [Hurt] In this state, it causes an additional 20% damage. [Near death] In this state, it causes an additional 40% damage.</h2>
                 </h1>
@@ -252,7 +252,7 @@ Perhaps her piety and determination have long become a shackle that restrains he
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Inc\Homa\Hasharam-Carnival.webp" alt="Hasharam Carnival" title='Hasharam Carnival'></img>
+                <img src="\assets\Hero-Art-Inc\Homa\Hasharam-Carnival.webp" alt="Hasharam Carnival" title='Hasharam Carnival'></img>
                 <h1>Hasharam Carnival :
                     <h2>(Support) The team that the target and [Balur] stay on gains [Noisy], and then deal 60% [physical range damage] to all enemies within 2 squares of its range, and then additionally apply [×Active Skill], [× Passive Skill], all effects last for 2 rounds. After the skill is released, [Balur] stays on the target for 2 rounds.</h2>
                 </h1>

@@ -10,287 +10,287 @@ const Weapons = () => {
   const WeaponPage = [
     {
       name: 'Antimagic Axe',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Antimagic-Axe-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Antimagic-Axe-Cd.webp',
       link: '/WeaponPage/AntimagicAxe',
       rarity: 'Epic',
     },
     
     {
       name: 'Armor Piercing Spear',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Armor-Piercing-Spear-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Armor-Piercing-Spear-Cd.webp',
       link: '/WeaponPage/ArmorPiercingSpear',
       rarity: 'Epic',
     },
     
     {
       name: 'Balancer Heavy Axe',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Balancer-Heavy-Axe-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Balancer-Heavy-Axe-Cd.webp',
       link: '/WeaponPage/BalancerHeavyAxe',
       rarity: 'Epic',
     },
     
     {
       name: 'Beheading Machete',
-      imgSrc: 'public/assets/Gear-Legendary/Beheading-Machete-Cd.png',
+      imgSrc: '/assets/Gear-Legendary/Beheading-Machete-Cd.png',
       link: '/WeaponPage/BeheadingMachete',
       rarity: 'Legendary',
     },
     
     {
       name: 'Brutal Axe',
-      imgSrc: 'public/assets/Gear-Legendary/Brutal-Axe-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Brutal-Axe-Cd.webp',
       link: '/WeaponPage/BrutalAxe',
       rarity: 'Legendary',
     },
     
     {
       name: 'Ceremonial Knife',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Ceremonial-Knife-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Ceremonial-Knife-Cd.webp',
       link: '/WeaponPage/CeremonialKnife',
       rarity: 'Epic',
     },
     
     {
       name: 'Cornucopia Axe',
-      imgSrc: 'public/assets/Gear-Legendary/Cornucopia-Axe-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Cornucopia-Axe-Cd.webp',
       link: '/WeaponPage/CornucopiaAxe',
       rarity: 'Legendary',
     },
     
     {
       name: 'Cornucopia Blade',
-      imgSrc: 'public/assets/Gear-Legendary/Cornucopia-Dagger-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Cornucopia-Dagger-Cd.webp',
       link: '/WeaponPage/CornucopiaBlade',
       rarity: 'Legendary',
     },
     
     {
       name: 'Cornucopia Longbow',
-      imgSrc: 'public/assets/Gear-Legendary/Cornucopia-Longbow-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Cornucopia-Longbow-Cd.webp',
       link: '/WeaponPage/CornucopiaLongbow',
       rarity: 'Legendary',
     },
     
     {
       name: 'Cornucopia Spear',
-      imgSrc: 'public/assets/Gear-Legendary/Cornucopia-Spear-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Cornucopia-Spear-Cd.webp',
       link: '/WeaponPage/CornucopiaSpear',
       rarity: 'Legendary',
     },
     
     {
       name: 'Cornucopia Staff',
-      imgSrc: 'public/assets/Gear-Legendary/Cornucopia-Staff-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Cornucopia-Staff-Cd.webp',
       link: '/WeaponPage/CornucopiaStaff',
       rarity: 'Legendary',
     },
     
     {
       name: 'Denial Hammer',
-      imgSrc: 'public/assets/Gear-Legendary/Denial-Hammer-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Denial-Hammer-Cd.webp',
       link: '/WeaponPage/DenialHammer',
       rarity: 'Legendary',
     },
     
     {
       name: 'Diffusing Prism',
-      imgSrc: 'public/assets/Gear-Legendary/Diffusing-Prism-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Diffusing-Prism-Cd.webp',
       link: '/WeaponPage/DiffusingPrism',
       rarity: 'Legendary',
     },
     
     {
       name: 'Doomsday Scythe',
-      imgSrc: 'public/assets/Gear-Legendary/Doomsday-Scythe-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Doomsday-Scythe-Cd.webp',
       link: '/WeaponPage/DoomsdayScythe',
       rarity: 'Legendary',
     },
     
     {
       name: 'Double Headed Halberd',
-      imgSrc: 'public/assets/Gear-Legendary/Double-Headed-Halberd-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Double-Headed-Halberd-Cd.webp',
       link: '/WeaponPage/DoubleHeadedHalberd',
       rarity: 'Legendary',
     },
     
     {
       name: 'Dual-Dagger',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Dual-Dagger-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Dual-Dagger-Cd.webp',
       link: '/WeaponPage/DualDagger',
       rarity: 'Epic',
     },
     
     {
       name: 'Ever-Burning Edge',
-      imgSrc: 'public/assets/Gear-Legendary/EverBurning-Edge-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/EverBurning-Edge-Cd.webp',
       link: '/WeaponPage/EverBurningEdge',
       rarity: 'Legendary',
     },
     
     {
       name: 'Feast Axe',
-      imgSrc: 'public/assets/Gear-Legendary/Feast-Axe-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Feast-Axe-Cd.webp',
       link: '/WeaponPage/FeastAxe',
       rarity: 'Legendary',
     },
     
     {
       name: 'Focus Staff',
-      imgSrc: 'public/assets/Gear-Legendary/Focus-Staff-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Focus-Staff-Cd.webp',
       link: '/WeaponPage/FocusStaff',
       rarity: 'Legendary',
     },
     
     {
       name: 'Gazing Orb',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Gazing-Orb-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Gazing-Orb-Cd.webp',
       link: '/WeaponPage/GazingOrb',
       rarity: 'Epic',
     },
     
     {
       name: 'Guardian\'s Will',
-      imgSrc: 'public/assets/Gear-Legendary/Guardians-Will-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Guardians-Will-Cd.webp',
       link: '/WeaponPage/GuardiansWill',
       rarity: 'Legendary',
     },
     
     {
       name: 'Hollow Axe',
-      imgSrc: 'public/assets/Gear-Legendary/Hollow-Axe-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Hollow-Axe-Cd.webp',
       link: '/WeaponPage/HollowAxe',
       rarity: 'Legendary',
     },
     
     {
       name: 'Irian Combat Bow',
-      imgSrc: 'public/assets/Gear-Legendary/Iria-Combat-Bow-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Iria-Combat-Bow-Cd.webp',
       link: '/WeaponPage/IrianCombatBow',
       rarity: 'Legendary',
     },
     
     {
       name: 'Longbow of Martyrs',
-      imgSrc: 'public/assets/Gear-Legendary/Longbow-of-Martyrs-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Longbow-of-Martyrs-Cd.webp',
       link: '/WeaponPage/LongbowOfMartyrs',
       rarity: 'Legendary',
     },
     
     {
       name: 'Melee Mega Crossbow',
-      imgSrc: 'public/assets/Gear-Legendary/Melee-Mega-Crossbow-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Melee-Mega-Crossbow-Cd.webp',
       link: '/WeaponPage/MeleeMegaCrossbow',
       rarity: 'Legendary',
     },
     
     {
       name: 'Meteor Line',
-      imgSrc: 'public/assets/Gear-Legendary/Meteor-Line-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Meteor-Line-Cd.webp',
       link: '/WeaponPage/MeteorLine',
       rarity: 'Legendary',
     },
 
     {
       name: 'Nameless Staff',
-      imgSrc: 'public/assets/Gear-Legendary/Nameless-Staff-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Nameless-Staff-Cd.webp',
       link: '/WeaponPage/NamelessStaff',
       rarity: 'Legendary',
     },
     
     {
       name: 'Newborn Blade',
-      imgSrc: 'public/assets/Gear-Legendary/Newborn-Blade-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Newborn-Blade-Cd.webp',
       link: '/WeaponPage/NewbornBlade',
       rarity: 'Legendary',
     },
     
     {
       name: 'Pendant Halberd',
-      imgSrc: 'public/assets/Gear-Legendary/Pendant-Halberd-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Pendant-Halberd-Cd.webp',
       link: '/WeaponPage/PendantHalberd',
       rarity: 'Legendary',
     },
     
     {
       name: 'Reorganized Cube',
-      imgSrc: 'public/assets/Gear-Legendary/Reorganized-Cube-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Reorganized-Cube-Cd.webp',
       link: '/WeaponPage/ReorganizedCube',
       rarity: 'Legendary',
     },
     
     {
       name: 'Senator\'s Swift Sword',
-      imgSrc: 'public/assets/Gear-Legendary/Senators-Swift-Sword-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Senators-Swift-Sword-Cd.webp',
       link: '/WeaponPage/SenatorsSwiftSword',
       rarity: 'Legendary',
     },
     
     {
       name: 'Skeleton Spear',
-      imgSrc: 'public/assets/Gear-Legendary/Skeleton-Spear-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Skeleton-Spear-Cd.webp',
       link: '/WeaponPage/SkeletonSpear',
       rarity: 'Legendary',
     },
     
     {
       name: 'Skeleton Staff',
-      imgSrc: 'public/assets/Gear-Legendary/Skeleton-Staff-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Skeleton-Staff-Cd.webp',
       link: '/WeaponPage/SkeletonStaff',
       rarity: 'Legendary',
     },
     
     {
       name: 'Spite Broom',
-      imgSrc: 'public/assets/Gear-Legendary/Spite-Broom-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Spite-Broom-Cd.webp',
       link: '/WeaponPage/SpiteBroom',
       rarity: 'Legendary',
     },
     
     {
       name: 'Star-Raid Crossbow',
-      imgSrc: 'public/assets/Gear-Legendary/Star-Raid-Crossbow-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Star-Raid-Crossbow-Cd.webp',
       link: '/WeaponPage/StarRaidCrossbow',
       rarity: 'Legendary',
     },
     
     {
       name: 'Starry Sky Heritage',
-      imgSrc: 'public/assets/Gear-Legendary/Stary-Sky-Heritage-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Stary-Sky-Heritage-Cd.webp',
       link: '/WeaponPage/StarrySkyHeritage',
       rarity: 'Legendary',
     },
     
     {
       name: 'Steel Crossbow',
-      imgSrc: 'public/assets/Gear-Gold-or-Below/Steel-Crossbow-Cd.webp',
+      imgSrc: '/assets/Gear-Gold-or-Below/Steel-Crossbow-Cd.webp',
       link: '/WeaponPage/SteelCrossbow',
       rarity: 'Epic',
     },
     
     {
       name: 'The-Silent-Guard',
-      imgSrc: 'public/assets/Gear-Legendary/The-Silent-Guard-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/The-Silent-Guard-Cd.webp',
       link: '/WeaponPage/TheSilentGuard',
       rarity: 'Legendary',
     },
     
     {
       name: 'Tuning Hammer',
-      imgSrc: 'public/assets/Gear-Legendary/Tuning-Hammer-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Tuning-Hammer-Cd.webp',
       link: '/WeaponPage/TuningHammer',
       rarity: 'Legendary',
     },
     
     {
       name: 'Void Stab',
-      imgSrc: 'public/assets/Gear-Legendary/Void-Stab-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Void-Stab-Cd.webp',
       link: '/WeaponPage/VoidStab',
       rarity: 'Legendary',
     },
 
     {
       name: 'Whale Hunter',
-      imgSrc: 'public/assets/Gear-Legendary/Whale-Hunter-Cd.webp',
+      imgSrc: '/assets/Gear-Legendary/Whale-Hunter-Cd.webp',
       link: '/WeaponPage/WhaleHunter',
       rarity: 'Legendary',
     },

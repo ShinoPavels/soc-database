@@ -14,7 +14,7 @@ const Stinger = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Stinger-Profile.webp" alt="Stinger" title='Stinger' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Stinger\Stinger-Profile.webp" alt="Stinger" title='Stinger' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const Stinger = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Hunters-Will-Trait.webp" alt="Hunter’s Will" title='Hunter’s Will'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Hunters-Will-Trait.webp" alt="Hunter’s Will" title='Hunter’s Will'></img>
                 <h1>Hunter’s Will :
                     <h2>At the end of the turn, locks onto the closest enemy within a 3- tile radius of the character, deals 40% Physical DMG, and inflicts [The Hanged Mens Mark]. When attacking an enemy with [The Hanged Men’s Mark], increases DMG by 20%.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const Stinger = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Shadow-Assault.webp" alt="Shadow Assault" title='Shadow Assault'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Shadow-Assault.webp" alt="Shadow Assault" title='Shadow Assault'></img>
                 <h1>Shadow Assault :
                     <h2>(Physical DMG) Single-target attack Deals 130% DMG. After attacking, the character gains [Dodge] for 1 turn.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const Stinger = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Infected-Dagger.webp" alt="Infected Dagger" title='Infected Dagger'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Infected-Dagger.webp" alt="Infected Dagger" title='Infected Dagger'></img>
                 <h1>Infected Dagger :
                     <h2>(Physical DMG) Single-target attack. Deals 70% DMG and inflicts 3 stacks of [Infection].	</h2>
                 </h1>
@@ -149,7 +149,7 @@ const Stinger = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Flurry-of-Stabs.webp" alt="Flurry of Stabs" title='Flurry of Stabs'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Flurry-of-Stabs.webp" alt="Flurry of Stabs" title='Flurry of Stabs'></img>
                 <h1>Flurry of Stabs :
                     <h2>(Physical DMG) Deals 45% DMG 3 times. When attacking, Crit increases by 20%.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const Stinger = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Battle-Fever.webp" alt="Battle Fever" title='Battle Fever'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Battle-Fever.webp" alt="Battle Fever" title='Battle Fever'></img>
                 <h1>Battle Fever :
                     <h2>(Passive) After initiating an Active Attack, the character takes 15% less DMG. Dealing a Crit DMG additionally decreases DMG taken by 25% for 1 turn.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const Stinger = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Settlement-of-the-Hanged-Men.webp" alt="Settlement of the Hanged Men" title='Settlement of the Hanged Men'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Settlement-of-the-Hanged-Men.webp" alt="Settlement of the Hanged Men" title='Settlement of the Hanged Men'></img>
                 <h1>Settlement of the Hanged Men :
                     <h2>(Passive) After an attack, if the target is [Dying] and has [The Hanged Men’s Mark], deals an additional [Piercing DMG] equal to 30% of the target‘s HP. When DMG is dealt, the mark will be removed..</h2>
                 </h1>
@@ -176,7 +176,7 @@ const Stinger = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Vital-Guard.webp" alt="Vital Guard" title='Vital Guard'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Vital-Guard.webp" alt="Vital Guard" title='Vital Guard'></img>
                 <h1>Vital Guard :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Upon receiving an active attack, if the characteris [Dying], gains [Dodge] for 1 turn. Can be activated up to 1 time per round.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const Stinger = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
                 <h1>Counterattack :
                     <h2>(Reaction) When hit by an active attack from the [front or side], performs a basic attack to [Strike Back] if the attacker is within range, dealing 70% of basic attack’s DMG. The effect can be activated up to 1 time per round.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const Stinger = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Luxite-Shrapnel.webp" alt="Luxite Shrapnel" title='Luxite Shrapnel'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Luxite-Shrapnel.webp" alt="Luxite Shrapnel" title='Luxite Shrapnel'></img>
                 <h1>Luxite Shrapnel :
                     <h2>(Piercing DMG) Deals [Piercing DMG] equal to 10% of the target’s HP to all enemies within 2 tiles around the target and inflicts 3 stacks of [Infection].</h2>
                 </h1>
@@ -203,7 +203,7 @@ const Stinger = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Armybane-Blade.webp" alt="Armybane Blade" title='Armybane Blade'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Armybane-Blade.webp" alt="Armybane Blade" title='Armybane Blade'></img>
                 <h1>Armybane Blade :
                     <h2>(Physical DMG) Single-target attack. Deals 170% DMG. Before attacking, inflicts [Isolate] on the target for 1 turn. After dealing DMG, inflicts [🛇Assist] on the target for 2 turns.</h2>
                 </h1>
@@ -212,7 +212,7 @@ const Stinger = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Disarm-Strike.webp" alt="Disarm Strike" title='Disarm Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Disarm-Strike.webp" alt="Disarm Strike" title='Disarm Strike'></img>
                 <h1>Disarm Strike :
                     <h2>(Basic Attack) Deals 50% Physical DMG 2 times and inflicts [▲ATK 1] on the target for 2 turns.</h2>
                 </h1>
@@ -221,7 +221,7 @@ const Stinger = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Stinger\Silencing-Attack.webp" alt="Silencing Attack" title='Silencing Attack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Stinger\Silencing-Attack.webp" alt="Silencing Attack" title='Silencing Attack'></img>
                 <h1>Silencing Attack :
                     <h2>(Basic Attack) Deals 50% Physical DMG 2 times and inflicts [🛇Active Skills] on [Injured] targets before attacking for 2 turns.</h2>
                 </h1>

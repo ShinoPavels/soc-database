@@ -14,7 +14,7 @@ const Samantha = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Samantha\Samantha-Profile.webp" alt="Samantha" title='Samantha' className=''></img>
+          <img src="\assets\Hero-Art-Out\Samantha\Samantha-Profile.webp" alt="Samantha" title='Samantha' className=''></img>
 
         </div>
         
@@ -153,7 +153,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Pious-Prayer-Trait.webp" alt="Pious Prayer" title='Pious Prayer'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Pious-Prayer-Trait.webp" alt="Pious Prayer" title='Pious Prayer'></img>
                 <h1>Pious Prayer :
                     <h2>The healing received by all other allies within 3 tiles around Samantha increases by 30%. If an ally is [Injured] after being attacked, she consumes 1 NRG to heal them for 50% of her M.ATK.</h2>
                 </h1>
@@ -161,7 +161,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Soul-Soothing.webp" alt="Soul Soothing" title='Soul Soothing'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Soul-Soothing.webp" alt="Soul Soothing" title='Soul Soothing'></img>
                 <h1>Soul Soothing :
                     <h2>(Healing) Heals the target by 75% of M.ATK.</h2>
                 </h1>
@@ -169,7 +169,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\NRG-Restoration.webp" alt="NRG Restoration" title='NRG Restoration'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\NRG-Restoration.webp" alt="NRG Restoration" title='NRG Restoration'></img>
                 <h1>NRG Restoration :
                     <h2>(Passive) At the end of the turn, recovers an additional 1 NRG. If NRG is less than 1, recovers another 1 NRG.	</h2>
                 </h1>
@@ -178,7 +178,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Light-of-Judgment.webp" alt="Light of Judgment" title='Light of Judgment'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Light-of-Judgment.webp" alt="Light of Judgment" title='Light of Judgment'></img>
                 <h1>Light of Judgment :
                     <h2>(Magical DMG) Single-target attack. Deals 140% DMG. After attacking, heals the ally with the lowest HP percentage in battle for 50% of the character’s M.ATK.</h2>
                 </h1>
@@ -187,7 +187,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Radiant-Stamp.webp" alt="Radiant Stamp" title='Radiant Stamp'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Radiant-Stamp.webp" alt="Radiant Stamp" title='Radiant Stamp'></img>
                 <h1>Radiant Stamp :
                     <h2>(Healing) Samantha heals all allies within 2 tiles around the target for 40% of her M.ATK. The central target receives an additional 40% of healing. After being healed, all targets gain [▲DMG 1] and [▲P.DEF 1] for 2 turns.</h2>
                 </h1>
@@ -196,7 +196,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Divine-Wrath.webp" alt="Divine Wrath" title='Divine Wrath'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Divine-Wrath.webp" alt="Divine Wrath" title='Divine Wrath'></img>
                 <h1>Divine Wrath :
                     <h2>(Magical DMG) Deals 70% DMG to all enemies in a straight line within 5 tiles in the target direction and inflicts [🛇Active Skills] for 2 turns. Recovers 2 NRG for every 1 enemy hit by the skill.</h2>
                 </h1>
@@ -205,7 +205,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Devout-Faith.webp" alt="Devout Faith" title='Devout Faith'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Devout-Faith.webp" alt="Devout Faith" title='Devout Faith'></img>
                 <h1>Devout Faith :
                     <h2>(Reaction) Gains [Resolve] if the character has 3 NRG. When [resolve] is triggered, consumes 3 NRG to heal the character’s HP to 70%. Can be activated up to 2 times per battle.</h2>
                 </h1>
@@ -214,7 +214,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Defense-AoE.webp" alt="Defense (AoE)" title='Defense (AoE)'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Defense-AoE.webp" alt="Defense (AoE)" title='Defense (AoE)'></img>
                 <h1>Defense (AoE) :
                     <h2>(Reaction) When hit by an active AOE Attack, the DMG taken is decreased by 30%.</h2>
                 </h1>
@@ -223,7 +223,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Battle-Flag-of-Papal-States.webp" alt="Battle Flag of Papal States" title='Battle Flag of Papal States'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Battle-Flag-of-Papal-States.webp" alt="Battle Flag of Papal States" title='Battle Flag of Papal States'></img>
                 <h1>Battle Flag of Papal States :
                     <h2>(Leader’s Aura) For all [Papal States] allies in battle, increases ATK by 10% and DEF by 20%.</h2>
                 </h1>
@@ -232,7 +232,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Light-of-Celestial-Purge.webp" alt="Light of Celestial Purge" title='Light of Celestial Purge'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Light-of-Celestial-Purge.webp" alt="Light of Celestial Purge" title='Light of Celestial Purge'></img>
                 <h1>Light of Celestial Purge :
                     <h2>(Magical DMG) Samantha deals 30% DMG to all enemies within 5 tiles around herself. Additionally dispels 3 [Buffs] from enemies and 3 [Debuffs] from allies.</h2>
                 </h1>
@@ -242,7 +242,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
             <tr>
             
                 <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Invigorating-Strike.webp" alt="Invigorating Strike" title='Invigorating Strike'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Invigorating-Strike.webp" alt="Invigorating Strike" title='Invigorating Strike'></img>
                 <h1>Invigorating Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and additionally recovers 1 NRG.</h2>
                 </h1>
@@ -250,7 +250,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Merciful-Strike.webp" alt="Merciful Strike" title='Merciful Strike'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Merciful-Strike.webp" alt="Merciful Strike" title='Merciful Strike'></img>
                 <h1>Merciful Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and increases the effect of the next healing skill by 15%, lasting for 2 turns.</h2>
                 </h1>
@@ -260,7 +260,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\Sacred-Sanctuary.webp" alt="Sacred Sanctuary" title='Sacred Sanctuary'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\Sacred-Sanctuary.webp" alt="Sacred Sanctuary" title='Sacred Sanctuary'></img>
                 <h1>Sacred Sanctuary :
                     <h2>(Support) Samantha grants all allies within 5 tiles around herself [DMG Reduction 3] and [▲Healing Received 3] for 2 turns. She gains [Regenerate Extra], expanding the effect range of her trait to 5 tiles and cancelling the NRG consumption when triggering, lasting for 1 turn.</h2>
                 </h1>
@@ -269,7 +269,7 @@ As an adult, Samantha has proven him right to have done so, becoming a Judge who
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Samantha\The-Protected.webp" alt="The Protected" title='The Protected'></img>
+                <img src="\assets\Hero-Art-Out\Samantha\The-Protected.webp" alt="The Protected" title='The Protected'></img>
                 <h1>The Protected :
                     <h2>(Passive) The character gains 15% bonus ATK and 30% bonus DEF while not affected by any [Debuff] and affected by at least 3 [Buffs].</h2>
                 </h1>

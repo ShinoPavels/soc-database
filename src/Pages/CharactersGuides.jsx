@@ -43,7 +43,7 @@ const CharactersGuides = () => {
       {/* Optional fun element - animated icon */}
       <div className="relative z-10">
         <img
-          src="public\assets\BerylLoading.webp"
+          src="\assets\BerylLoading.webp"
           alt="Teasing icon"
           className="w-32 h-32 animate-bounce"
         />

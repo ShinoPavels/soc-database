@@ -14,7 +14,7 @@ const Inanna = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Inanna\Inanna-Profile.webp" alt="Inanna" title='Inanna' className=''></img>
+          <img src="\assets\Hero-Art-Out\Inanna\Inanna-Profile.webp" alt="Inanna" title='Inanna' className=''></img>
 
         </div>
         
@@ -151,7 +151,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Pearl-of-Iria-Trait.webp" alt="Pearl of Iria" title='Pearl of Iria'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Pearl-of-Iria-Trait.webp" alt="Pearl of Iria" title='Pearl of Iria'></img>
                 <h1>Pearl of Iria :
                     <h2>At the start of the battle, summons 1 [Guard of the Princess]. At the end of the turn, heals the 2 allies with the lowest HP percentage within 4 tiles of the character for 25% of M.ATK and grants them 1 random [Level 2 Buff] for 2 turns. [Guard of the Princess]’s ATK and DEF increase by 15%. The skill to summon Guard of the Princess can be used an additional 2 times per battle.</h2>
                 </h1>
@@ -159,7 +159,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Healing-Spell.webp" alt="Healing Spell" title='Healing Spell'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Healing-Spell.webp" alt="Healing Spell" title='Healing Spell'></img>
                 <h1>Healing Spell :
                     <h2>(Healing) Heals the target by 100% of M.ATK and dispels 1 [debuff] on the target.</h2>
                 </h1>
@@ -167,7 +167,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Princesss-Prayer.webp" alt="Princess’s Prayer" title='Princess’s Prayer'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Princesss-Prayer.webp" alt="Princess’s Prayer" title='Princess’s Prayer'></img>
                 <h1>Princess’s Prayer :
                     <h2>(Support) Allows 1 ally that has already acted to [Act Again], and grants this ally [▲ATK 2] and [▲M.DEF 2] for 2 turns. If the target is [Guard of the Princess], additionally heals them for 60% of M.ATK.	</h2>
                 </h1>
@@ -176,7 +176,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Defense-Boost.webp" alt="Defense Boost" title='Defense Boost'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Defense-Boost.webp" alt="Defense Boost" title='Defense Boost'></img>
                 <h1>Defense Boost :
                     <h2>(Support) Grants [▲P.DEF 2] to all allies within the target location and grants immunity to [Defense Attribute Debuffs], lasting for 2 turns.</h2>
                 </h1>
@@ -185,7 +185,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Princesss-Comfort.webp" alt="Princess’s Comfort" title='Princess’s Comfort'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Princesss-Comfort.webp" alt="Princess’s Comfort" title='Princess’s Comfort'></img>
                 <h1>Princess’s Comfort :
                     <h2>(Healing) Inanna heals all allies within a 2-tile radius for 60% of her MATK and dispels 2 of their debuffs.</h2>
                 </h1>
@@ -194,7 +194,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Guard!.webp" alt="Guard!" title='Guard!'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Guard!.webp" alt="Guard!" title='Guard!'></img>
                 <h1>Guard! :
                     <h2>(Support) [Instant] Teleports the [Guard of the Princess] in front of Inanna and grants the Guard [Potential Burst] for 2 turns. When the Guard is defeated, the skill summons a new [Guard of the Princess].</h2>
                 </h1>
@@ -203,7 +203,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Battlefield-Trial.webp" alt="Battlefield Trial" title='Battlefield Trial'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Battlefield-Trial.webp" alt="Battlefield Trial" title='Battlefield Trial'></img>
                 <h1>Battlefield Trial :
                     <h2>(Reaction) Decreases DMG taken by 8%. For each character defeated within 5 tiles around the character, increases M.ATK by 6%, up to 30%.</h2>
                 </h1>
@@ -212,7 +212,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Protection-of-Light.webp" alt="Protection of Light" title='Protection of Light'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Protection-of-Light.webp" alt="Protection of Light" title='Protection of Light'></img>
                 <h1>Protection of Light :
                     <h2>(Reaction) When hit by an active single- target attack, the DMG taken is decreased by 30%. This effect can be activated 1 time per round.</h2>
                 </h1>
@@ -221,7 +221,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Soul-Mate.webp" alt="Soul Mate" title='Soul Mate'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Soul-Mate.webp" alt="Soul Mate" title='Soul Mate'></img>
                 <h1>Soul Mate :
                     <h2>(Support) Grants all allies within 3 tiles around the character [Co-Attack] and [Co-Defense] for 3 turns. For [Iria] allies, the target count for [Co-Attack] and [Co-Defense] is additionally increased by 1.</h2>
                 </h1>
@@ -230,7 +230,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Light-of-Sanction.webp" alt="Light of Sanction" title='Light of Sanction'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Light-of-Sanction.webp" alt="Light of Sanction" title='Light of Sanction'></img>
                 <h1>Light of Sanction :
                     <h2>(Magical DMG) Deals 70% [AoE DMG] to all enemies within a 2-tile radius of the target and dispels 2 [Buffs].</h2>
                 </h1>
@@ -239,7 +239,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Armor-Piercing-Strike.webp" alt="Armor-Piercing Strike" title='Armor-Piercing Strike'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Armor-Piercing-Strike.webp" alt="Armor-Piercing Strike" title='Armor-Piercing Strike'></img>
                 <h1>Armor-Piercing Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and inflicts [▼P.DEF 1] and [▼M.DEF 1] on the target for 2 turns.</h2>
                 </h1>
@@ -248,7 +248,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Merciful-Strike.webp" alt="Merciful Strike" title='Merciful Strike'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Merciful-Strike.webp" alt="Merciful Strike" title='Merciful Strike'></img>
                 <h1>Merciful Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and increases the effect of the next healing skill by 15%, lasting for 2 turns.</h2>
                 </h1>
@@ -258,7 +258,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\MDEF-Command.webp" alt="M.DEF Command" title='M.DEF Command'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\MDEF-Command.webp" alt="M.DEF Command" title='M.DEF Command'></img>
                 <h1>M.DEF Command :
                     <h2>(Magical DMG) Deals 70% [AoE DMG] to all enemies within a 2-tile radius of the target and inflicts [🛇Passive Skills] and [🛇Reaction Skills], lasting for 2 turns.</h2>
                 </h1>
@@ -267,7 +267,7 @@ Amid the tense situation in Waverun City, Inanna voluntarily proposed a visit to
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Inanna\Flight-of-the-Princess.webp" alt="Flight of the Princess" title='Flight of the Princess'></img>
+                <img src="\assets\Hero-Art-Out\Inanna\Flight-of-the-Princess.webp" alt="Flight of the Princess" title='Flight of the Princess'></img>
                 <h1>Flight of the Princess :
                     <h2>(Healing) Inanna sacrifices 90% of her current HP to dispel all [Debuffs], she gains [Invisibility] and [▲Healing 5], and expands the range of [Trait] skills by 2 times. She heals all allies within range. All effects last for 2 turns.</h2>
                 </h1>

@@ -14,7 +14,7 @@ const Momo = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Momo\Momo-Profile.webp" alt="Momo" title='Momo' className=''></img>
+          <img src="\assets\Hero-Art-Out\Momo\Momo-Profile.webp" alt="Momo" title='Momo' className=''></img>
 
         </div>
         
@@ -151,7 +151,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Doom-Resonance-Trait.webp" alt="Doom Resonance" title='Doom Resonance'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Doom-Resonance-Trait.webp" alt="Doom Resonance" title='Doom Resonance'></img>
                 <h1>Doom Resonance :
                     <h2>All enemies within 4 tiles of Momo take 35% more [DoT]. At the end of Momo’s turn, she gains 2 stacks of [Repulsion Barrier], up to 5 stacks. At the start of the battle, she also gains 3 stacks of [repulsion barrier].</h2>
                 </h1>
@@ -159,7 +159,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Misfortune-Erosion.webp" alt="Misfortune Erosion" title='Misfortune Erosion'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Misfortune-Erosion.webp" alt="Misfortune Erosion" title='Misfortune Erosion'></img>
                 <h1>Misfortune Erosion :
                     <h2>(Magic DMG) Momo deals 65% AoE DMG to all enemies within a 3×4 area in the target direction and inflicts 2 stacks of [Infection]. When Momo has [Doom Waken], the target immediately receives [infection] DMG after bein attacked and half of the [infection] stacks are removed.</h2>
                 </h1>
@@ -167,7 +167,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Energy-Ray.webp" alt="Energy Ray" title='Energy Ray'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Energy-Ray.webp" alt="Energy Ray" title='Energy Ray'></img>
                 <h1>Energy Ray :
                     <h2>(Magical DMG) Single-target attack Deals 140% DMG. Before attacking, the character gains [Shield Break 1].</h2>
                 </h1>
@@ -176,7 +176,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Field.webp" alt="Field" title='Field'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Field.webp" alt="Field" title='Field'></img>
                 <h1>Field :
                     <h2>(Aura) Decreases [AoE DMG] taken by all allies within 3 tiles around the character by 25%.</h2>
                 </h1>
@@ -185,7 +185,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Erosive-Power.webp" alt="Erosive Power" title='Erosive Power'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Erosive-Power.webp" alt="Erosive Power" title='Erosive Power'></img>
                 <h1>Erosive Power :
                     <h2>(Passive) DMG increases by 10%. After dealing DMG, inflicts 1 stack of [Infection] on the target. After a single-target Active Attack, inflicts 1 additional stack of [Infection].</h2>
                 </h1>
@@ -194,7 +194,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Repulsion-Application.webp" alt="Repulsion Application" title='Repulsion Application'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Repulsion-Application.webp" alt="Repulsion Application" title='Repulsion Application'></img>
                 <h1>Repulsion Application :
                     <h2>(Decision) Momo selects to use [Repulsion Purging] or [Reverse Repulsion].</h2>
                 </h1>
@@ -203,7 +203,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Erosive-Force-Field.webp" alt="Erosive Force Field" title='Erosive Force Field'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Erosive-Force-Field.webp" alt="Erosive Force Field" title='Erosive Force Field'></img>
                 <h1>Erosive Force Field :
                     <h2>(Reaction) When [Repulsion Barrier] blocks a Melee Attack, Momo performs a [Strike Back], which deals 70% Magical DMG and inflicts 1 stack of [Infection].</h2>
                 </h1>
@@ -211,7 +211,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
 
               <td className="px-4 py-2">Rank 5</td>
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Defense-Ranged-Attack.webp" alt="Defense (Ranged Attack)" title='Defense (Ranged Attack)'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Defense-Ranged-Attack.webp" alt="Defense (Ranged Attack)" title='Defense (Ranged Attack)'></img>
                 <h1>Defense (Ranged Attack) :
                     <h2>(Reaction) When hit by a ranged attack, the DMG taken is decreased by 25%.</h2>
                 </h1>
@@ -220,7 +220,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Dark-Ripple.webp" alt="Dark Ripple" title='Dark Ripple'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Dark-Ripple.webp" alt="Dark Ripple" title='Dark Ripple'></img>
                 <h1>Dark Ripple :
                     <h2>(Magical DMG) Deals 70% [AoE DMG] to all enemies within a 2-tile radius of the target and inflicts [🛇Passive Skills] and [🛇Reaction Skills], lasting for 2 turns.</h2>
                 </h1>
@@ -229,7 +229,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Toughness.webp" alt="Toughness" title='Toughness'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Toughness.webp" alt="Toughness" title='Toughness'></img>
                 <h1>Toughness :
                     <h2>(Passive) Gains immunity to the effect of [Injured] and [Dying].</h2>
                 </h1>
@@ -239,14 +239,14 @@ The inhumane experiments left horrible scars on her body. After escaping from th
             <tr>
             
                 <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Invogorating-Strike.webp" alt="Invigorating Strike" title='Invigorating Strike'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Invogorating-Strike.webp" alt="Invigorating Strike" title='Invigorating Strike'></img>
                 <h1>Invigorating Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and additionally recovers 1 NRG.</h2>
                 </h1>
                 </td>
               <td className="px-4 py-2">Rank 9</td>
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Hypnotic-Attack.webp" alt="Hypnotic Attack" title='Hypnotic Attack'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Hypnotic-Attack.webp" alt="Hypnotic Attack" title='Hypnotic Attack'></img>
                 <h1>Hypnotic Attack :
                     <h2>(Basic Attack) Deals 80% magical DMG and grants a 30% chance to inflict [Sleep] on the target for 1 turn</h2>
                 </h1>
@@ -257,7 +257,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Doom-Waken.webp" alt="Doom Waken" title='Doom Waken'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Doom-Waken.webp" alt="Doom Waken" title='Doom Waken'></img>
                 <h1>Doom Waken :
                     <h2>(Support) [Instant] Momo gains 2 stacks of [Repulsion Barrier] and [Doom Waken] for 3 turns. This effect cannot be dispelled or immunized againts.</h2>
                 </h1>
@@ -266,7 +266,7 @@ The inhumane experiments left horrible scars on her body. After escaping from th
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Momo\Life-Devourer.webp" alt="Life Devourer" title='Life Devourer'></img>
+                <img src="\assets\Hero-Art-Out\Momo\Life-Devourer.webp" alt="Life Devourer" title='Life Devourer'></img>
                 <h1>Life Devourer :
                     <h2>(Magical DMG) Single-target attack. Deals 150% DMG. After attacking, gains 45% [Life Steal].</h2>
                 </h1>

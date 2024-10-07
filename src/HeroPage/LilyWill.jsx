@@ -14,7 +14,7 @@ const LilyWill = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\LilyWill\LilyWill-Profile.webp" alt="LilyWill" title='LilyWill' className=''></img>
+          <img src="\assets\Hero-Art-Out\LilyWill\LilyWill-Profile.webp" alt="LilyWill" title='LilyWill' className=''></img>
 
         </div>
         
@@ -155,7 +155,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Vitar-Guardian-Trait.webp" alt="Vltar Guardian" title='Vltar Guardian'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Vitar-Guardian-Trait.webp" alt="Vltar Guardian" title='Vltar Guardian'></img>
                 <h1>Vltar Guardian :
                     <h2>LilyWill possesses [Jump] and she gains 15% bonus ATK. Ignores [Assisting Cover], also gains 30% bonus Crit, and all skill CD reduces by 1 turn when attacking from a [Highland] position.</h2>
                 </h1>
@@ -163,7 +163,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Cloud-Piercing-Arrow.webp" alt="Cloud-Piercing Arrow" title='Cloud-Piercing Arrow'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Cloud-Piercing-Arrow.webp" alt="Cloud-Piercing Arrow" title='Cloud-Piercing Arrow'></img>
                 <h1>Cloud-Piercing Arrow :
                     <h2>(Physical Damage) Single-target attack. Deals 140% DMG with [Curved Shot].</h2>
                 </h1>
@@ -171,7 +171,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Guerrilla.webp" alt="Guerrilla" title='Guerrilla'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Guerrilla.webp" alt="Guerrilla" title='Guerrilla'></img>
                 <h1>Guerrilla :
                     <h2>(Passive) ATK increases by 5%. After attacking, move again by 2 tiles. CD: 2 turns.</h2>
                 </h1>
@@ -180,7 +180,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Aim.webp" alt="Aim" title='Aim'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Aim.webp" alt="Aim" title='Aim'></img>
                 <h1>Aim :
                     <h2>(Support) [Instant] Gains [▲Crit 2] and [Ignore Dodge] for 1 turn.</h2>
                 </h1>
@@ -189,7 +189,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Arrow-of-Aeolus.webp" alt="Arrow of Aeolus" title='Arrow of Aeolus'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Arrow-of-Aeolus.webp" alt="Arrow of Aeolus" title='Arrow of Aeolus'></img>
                 <h1>Arrow of Aeolus :
                     <h2>(Physical DMG) Single-target attack. LilyWill deals 60% DMG with [Curved Shot]. She deals Magical DMG equal to 40% of her P.ATK to all enemies Within 1 tile around the target, inflicting 3 stacks of [Infection] if DMG is dealt.</h2>
                 </h1>
@@ -198,7 +198,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Windwalking.webp" alt="Windwalking" title='Windwalking'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Windwalking.webp" alt="Windwalking" title='Windwalking'></img>
                 <h1>Windwalking :
                     <h2>(Passive) Increases Crit DMG by 10%. The maximum range of [ranged skills] increases by 1 tile.</h2>
                 </h1>
@@ -207,7 +207,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Gale-Footwork.webp" alt="Gale Footwork" title='Gale Footwork'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Gale-Footwork.webp" alt="Gale Footwork" title='Gale Footwork'></img>
                 <h1>Gale Footwork :
                     <h2>(Reaction) When attacked by a melee attack from [front or side], the character can interrupt the enemy’s action, dealing 50% physical DMG and teleporting to the back of the closest ally within 3 tiles. Effect CD: 1. turns.</h2>
                 </h1>
@@ -216,7 +216,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Survival-Master.webp" alt="Survival Master" title='Survival Master'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Survival-Master.webp" alt="Survival Master" title='Survival Master'></img>
                 <h1>Survival Master :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%, and [Environmental DMG] taken is decreased by 70%.</h2>
                 </h1>
@@ -225,7 +225,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Shooting-Stars.webp" alt="Shooting Stars" title='Shooting Stars'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Shooting-Stars.webp" alt="Shooting Stars" title='Shooting Stars'></img>
                 <h1>Shooting Stars :
                     <h2>(Physical DMG) Deals 75% [AoE DMG] to all enemies within a 2-tile radius of the target and inflicts [▼P.DEF 2] for 2 turns.</h2>
                 </h1>
@@ -234,7 +234,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Resonance-of-Blood.webp" alt="Resonance of Blood" title='Resonance of Blood'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Resonance-of-Blood.webp" alt="Resonance of Blood" title='Resonance of Blood'></img>
                 <h1>Resonance of Blood :
                     <h2>(Leader’s Aura) For all [Vlder] allies in battle, increases ATK by 10%, DEF by 20%, and Movement by 1 tile.</h2>
                 </h1>
@@ -243,7 +243,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Infectious-Attack.webp" alt="Infectious Attack" title='Infectious Attack'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Infectious-Attack.webp" alt="Infectious Attack" title='Infectious Attack'></img>
                 <h1>Infectious Attack :
                     <h2>(Basic Attack) Fires a [Curved Shot] which deals 85% Physical DMG and inflicts 1 stack of [Infection] on the target.</h2>
                 </h1>
@@ -252,7 +252,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Gale-Shooting.webp" alt="Gale Shooting" title='Gale Shooting'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Gale-Shooting.webp" alt="Gale Shooting" title='Gale Shooting'></img>
                 <h1>Gale Shooting :
                     <h2>(Basic Attack) Single-target attack. LilyWill deals 120% Physical DMG.</h2>
                 </h1>
@@ -262,7 +262,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Arrow-of-Aeolus-Gale-Break.webp" alt="Arrow of Aeolus – Gale Break" title='Arrow of Aeolus – Gale Break'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Arrow-of-Aeolus-Gale-Break.webp" alt="Arrow of Aeolus – Gale Break" title='Arrow of Aeolus – Gale Break'></img>
                 <h1>Arrow of Aeolus – Gale Break :
                     <h2>(Physical Damage) Single-target attack. LilyWill deals 150% DMG, inflicts 2 stacks of [Infection], which immediately triggers the [infection] effect. Before attacking, she gains [Highland] advantage.</h2>
                 </h1>
@@ -271,7 +271,7 @@ LilyWill encourages her sister NonoWill to leave the tribe to find an opportunit
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\LilyWill\Marksman.webp" alt="Marksman" title='Marksman'></img>
+                <img src="\assets\Hero-Art-Out\LilyWill\Marksman.webp" alt="Marksman" title='Marksman'></img>
                 <h1>Marksman :
                     <h2>(Passive) All skills ignore [Obstinate]. Increases ATK by 12% and inflicts [🛇Assist] on the target after the attack.</h2>
                 </h1>

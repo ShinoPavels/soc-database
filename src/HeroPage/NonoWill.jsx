@@ -14,7 +14,7 @@ const NonoWill = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\NonoWill\NonoWill-Profile.webp" alt="NonoWill" title='NonoWill' className=''></img>
+          <img src="\assets\Hero-Art-Out\NonoWill\NonoWill-Profile.webp" alt="NonoWill" title='NonoWill' className=''></img>
 
         </div>
         
@@ -153,7 +153,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Mysterious-Siren-Trait.webp" alt="Mysterious Siren" title='Mysterious Siren'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Mysterious-Siren-Trait.webp" alt="Mysterious Siren" title='Mysterious Siren'></img>
                 <h1>Mysterious Siren :
                     <h2>NonoWill possesses [Jump] and she gains 15% bonus attack. She also gains [Veil] at the start of the round. Effect CD: 1 turn.</h2>
                 </h1>
@@ -161,7 +161,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Thousand-Blades.png" alt="Thousand Blades" title='Thousand Blades'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Thousand-Blades.png" alt="Thousand Blades" title='Thousand Blades'></img>
                 <h1>Thousand Blades :
                     <h2>(Physical DMG) NonoWill performs 3 consecutive attacks against all enemies 2 tiles around herself, each dealing 30% DMG.</h2>
                 </h1>
@@ -169,7 +169,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Infected-Dagger.webp" alt="Infected Dagger" title='Infected Dagger'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Infected-Dagger.webp" alt="Infected Dagger" title='Infected Dagger'></img>
                 <h1>Infected Dagger :
                     <h2>(Physical DMG) Single-target attack. Deals 70% DMG and inflicts 3 stacks of [Infection].</h2>
                 </h1>
@@ -178,7 +178,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Maneuver.webp" alt="Maneuver" title='Maneuver'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Maneuver.webp" alt="Maneuver" title='Maneuver'></img>
                 <h1>Maneuver :
                     <h2>(Passive) After initiating an Active Attack, the character can move again. The distance depends on the remaining Movement.</h2>
                 </h1>
@@ -187,7 +187,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Enchanting-Shadow.webp" alt="Enchanting Shadow" title='Enchanting Shadow'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Enchanting-Shadow.webp" alt="Enchanting Shadow" title='Enchanting Shadow'></img>
                 <h1>Enchanting Shadow :
                     <h2>(Support) [Instant]. NonoWill gains [Dodge] and inflicts [Vulnerable 3], which lasts for 2 turns on all enemies within 2 tiles around herself.</h2>
                 </h1>
@@ -196,7 +196,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Phantom-Dance.webp" alt="Phantom Dance" title='Phantom Dance'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Phantom-Dance.webp" alt="Phantom Dance" title='Phantom Dance'></img>
                 <h1>Phantom Dance :
                     <h2>(Support) [Instant] NonoWill gains [▲Move 2] in this turn. If she is within any enemy’s [Threat Range] at the end of the turn, return to the location where she was at the start of the turn.</h2>
                 </h1>
@@ -205,7 +205,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Defense-Magical.webp" alt="Defense (Magical)" title='Defense (Magical)'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Defense-Magical.webp" alt="Defense (Magical)" title='Defense (Magical)'></img>
                 <h1>Defense (Magical) :
                     <h2>(Reaction) When hit by an active Magical Attack, the DMG taken is decreased by 15%.</h2>
                 </h1>
@@ -214,7 +214,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\NRG-Recovery.webp" alt="NRG Recovery" title='NRG Recovery'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\NRG-Recovery.webp" alt="NRG Recovery" title='NRG Recovery'></img>
                 <h1>NRG Recovery :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Upon receiving an active attack, additionally recovers 1 NRG.</h2>
                 </h1>
@@ -223,7 +223,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Anesthetic.webp" alt="Anesthetic" title='Anesthetic'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Anesthetic.webp" alt="Anesthetic" title='Anesthetic'></img>
                 <h1>Anesthetic :
                     <h2>(Passive) After attacking, inflicts 1 stack of [Infection] on the target. When actively using [class skill] to hit targets with 5 or more stacks of [Infection], inflicts [Sleep] after attacking. The effect lasts for 1 turn.</h2>
                 </h1>
@@ -232,7 +232,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Aggression.webp" alt="Aggression" title='Aggression'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Aggression.webp" alt="Aggression" title='Aggression'></img>
                 <h1>Aggression :
                     <h2>(Leader’s Aura) For all [Aggression] allies in battle, increases ATK by 10%, DEF by 20%, and [Skill] DMG by 10%.</h2>
                 </h1>
@@ -241,7 +241,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
                 <h1>Dispelling Strike :
                     <h2>(Basic Attack) Deals 50% Physical DMG 2 times and dispels 2 [Buffs] on the target.</h2>
                 </h1>
@@ -250,7 +250,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Triple-Slash.webp" alt="Triple Slash" title='Triple Slash'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Triple-Slash.webp" alt="Triple Slash" title='Triple Slash'></img>
                 <h1>Triple Slash :
                     <h2>(Basic Attack) Single-target attack. NonoWill performs 3 consecutive attacks, each dealing 35% Physical DMG.</h2>
                 </h1>
@@ -260,7 +260,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Celestial-Song.webp" alt="Celestial Song" title='Celestial Song'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Celestial-Song.webp" alt="Celestial Song" title='Celestial Song'></img>
                 <h1>Celestial Song :
                     <h2>(Support) NonoWill gains the [Celestial Song] Aura. Effect: Grants all allies within 5 tiles [Regeneration 2] and [Immune to Attribute Debuff] and inflicts [🛇Active Skills] on all enemies within 3 tiles. The aura lasts for 2 turns and cannot be dispelled or immunized.</h2>
                 </h1>
@@ -269,7 +269,7 @@ After the war in Iria broke out, NonoWill saw an opportunity to bring reform to 
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\NonoWill\Sharpless-Lupine-Blade.webp" alt="Shapeless Lupine Blade" title='Shapeless Lupine Blade'></img>
+                <img src="\assets\Hero-Art-Out\NonoWill\Sharpless-Lupine-Blade.webp" alt="Shapeless Lupine Blade" title='Shapeless Lupine Blade'></img>
                 <h1>Shapeless Lupine Blade :
                     <h2>(Physical DMG) Single-target attack. Deals 150% DMG. When the target is [Injured], increases Crit and Crit DMG by an additional 15% and ignores [Assisting Cover].</h2>
                 </h1>

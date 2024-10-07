@@ -27,27 +27,27 @@ const WeaponsTierList = () => {
                         <>
                         <div className='flex'>
                           <div className="card">
-                            <Link to='/WeaponPage/NewbornBlade'><img src="public\assets\Gear-Legendary\Newborn-Blade-Cd.webp" alt="NewbornBlade" className="image" /></Link>
+                            <Link to='/WeaponPage/NewbornBlade'><img src="\assets\Gear-Legendary\Newborn-Blade-Cd.webp" alt="NewbornBlade" className="image" /></Link>
                             <p className="unit-name">Newborn Blade</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/VoidStab'><img src="public\assets\Gear-Legendary\Void-Stab-Cd.webp" alt="Void Stab" className="image" /></Link>
+                            <Link to='/WeaponPage/VoidStab'><img src="\assets\Gear-Legendary\Void-Stab-Cd.webp" alt="Void Stab" className="image" /></Link>
                             <p className="unit-name">Void Stab</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/HollowAxe'><img src="public\assets\Gear-Legendary\Hollow-Axe-Cd.webp" alt="Hollow Axe" className="image" /></Link>
+                            <Link to='/WeaponPage/HollowAxe'><img src="\assets\Gear-Legendary\Hollow-Axe-Cd.webp" alt="Hollow Axe" className="image" /></Link>
                             <p className="unit-name">Hollow Axe</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/CornucopiaBlade'><img src="public\assets\Gear-Legendary\Cornucopia-Dagger-Cd.webp" alt="Cornucopia Blade" className="image" /></Link>
+                            <Link to='/WeaponPage/CornucopiaBlade'><img src="\assets\Gear-Legendary\Cornucopia-Dagger-Cd.webp" alt="Cornucopia Blade" className="image" /></Link>
                             <p className="unit-name">Cornucopia Blade</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/TuningHammer'><img src="public\assets\Gear-Legendary\Tuning-Hammer-Cd.webp" alt="Tuning Hammer" className="image" /></Link>
+                            <Link to='/WeaponPage/TuningHammer'><img src="\assets\Gear-Legendary\Tuning-Hammer-Cd.webp" alt="Tuning Hammer" className="image" /></Link>
                             <p className="unit-name">Tuning Hammer</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/BrutalAxe'><img src="public\assets\Gear-Legendary\Brutal-Axe-Cd.webp" alt="Brutal Axe" className="image" /></Link>
+                            <Link to='/WeaponPage/BrutalAxe'><img src="\assets\Gear-Legendary\Brutal-Axe-Cd.webp" alt="Brutal Axe" className="image" /></Link>
                             <p className="unit-name">Brutal Axe</p>
                           </div>
                         </div>
@@ -57,27 +57,27 @@ const WeaponsTierList = () => {
                         <>
                         <div className='flex'>
                           <div className="card">
-                            <Link to='/WeaponPage/StarRaidCrossbow'><img src="public\assets\Gear-Legendary\Star-Raid-Crossbow-Cd.webp" alt="Star-Raid Crossbow" className="image" /></Link>
+                            <Link to='/WeaponPage/StarRaidCrossbow'><img src="\assets\Gear-Legendary\Star-Raid-Crossbow-Cd.webp" alt="Star-Raid Crossbow" className="image" /></Link>
                             <p className="unit-name">Star-Raid Crossbow</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/SpiteBroom'><img src="public\assets\Gear-Legendary\Spite-Broom-Cd.webp" alt="Resentment Broom" className="image" /></Link>
+                            <Link to='/WeaponPage/SpiteBroom'><img src="\assets\Gear-Legendary\Spite-Broom-Cd.webp" alt="Resentment Broom" className="image" /></Link>
                             <p className="unit-name">Spite Broom</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/NewbornBlade'><img src="public\assets\Gear-Legendary\Longbow-of-Martyrs-Cd.webp" alt="Longbow of Martyrs" className="image" /></Link>
+                            <Link to='/WeaponPage/NewbornBlade'><img src="\assets\Gear-Legendary\Longbow-of-Martyrs-Cd.webp" alt="Longbow of Martyrs" className="image" /></Link>
                             <p className="unit-name">Longbow of Martyrs</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/FocusStaff'><img src="public\assets\Gear-Legendary\Focus-Staff-Cd.webp" alt="Focus Wand" className="image" /></Link>
+                            <Link to='/WeaponPage/FocusStaff'><img src="\assets\Gear-Legendary\Focus-Staff-Cd.webp" alt="Focus Wand" className="image" /></Link>
                             <p className="unit-name">Focus Staff</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/StarrySkyHeritage'><img src="public\assets\Gear-Legendary\Stary-Sky-Heritage-Cd.webp" alt="Starry Sky Heritage" className="image" /></Link>
+                            <Link to='/WeaponPage/StarrySkyHeritage'><img src="\assets\Gear-Legendary\Stary-Sky-Heritage-Cd.webp" alt="Starry Sky Heritage" className="image" /></Link>
                             <p className="unit-name">Starry Sky Heritage</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/DoubleHeadedHalberd'><img src="public\assets\Gear-Legendary\Double-Headed-Halberd-Cd.webp" alt="Double-Sided Halberd" className="image" /></Link>
+                            <Link to='/WeaponPage/DoubleHeadedHalberd'><img src="\assets\Gear-Legendary\Double-Headed-Halberd-Cd.webp" alt="Double-Sided Halberd" className="image" /></Link>
                             <p className="unit-name">Double-Headed Halberd</p>
                           </div>
                         </div>
@@ -87,23 +87,23 @@ const WeaponsTierList = () => {
                         <>
                         <div className='flex'>
                         <div className="card">
-                            <Link to='/WeaponPage/TheSilentGuard'><img src="public\assets\Gear-Legendary\The-Silent-Guard-Cd.webp" alt="The Silent Guard" className="image" /></Link>
+                            <Link to='/WeaponPage/TheSilentGuard'><img src="\assets\Gear-Legendary\The-Silent-Guard-Cd.webp" alt="The Silent Guard" className="image" /></Link>
                             <p className="unit-name">The Silent Guard</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/PendantHalberd'><img src="public\assets\Gear-Legendary\Pendant-Halberd-Cd.webp" alt="Pendant Halberd" className="image" /></Link>
+                            <Link to='/WeaponPage/PendantHalberd'><img src="\assets\Gear-Legendary\Pendant-Halberd-Cd.webp" alt="Pendant Halberd" className="image" /></Link>
                             <p className="unit-name">Pendant Halberd</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/SkeletonSpear'><img src="public\assets\Gear-Legendary\Skeleton-Spear-Cd.webp" alt="Skeleton Spear" className="image" /></Link>
+                            <Link to='/WeaponPage/SkeletonSpear'><img src="\assets\Gear-Legendary\Skeleton-Spear-Cd.webp" alt="Skeleton Spear" className="image" /></Link>
                             <p className="unit-name">Skeleton Spear</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/MeteorLine'><img src="public\assets\Gear-Legendary\Meteor-Line-Cd.webp" alt="Meteor Line" className="image" /></Link>
+                            <Link to='/WeaponPage/MeteorLine'><img src="\assets\Gear-Legendary\Meteor-Line-Cd.webp" alt="Meteor Line" className="image" /></Link>
                             <p className="unit-name">Meteor Line</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/DiffusingPrism'><img src="public\assets\Gear-Legendary\Diffusing-Prism-Cd.webp" alt="Diffusing Prism" className="image" /></Link>
+                            <Link to='/WeaponPage/DiffusingPrism'><img src="\assets\Gear-Legendary\Diffusing-Prism-Cd.webp" alt="Diffusing Prism" className="image" /></Link>
                             <p className="unit-name">Diffusing Prism</p>
                           </div>
                         </div>
@@ -113,23 +113,23 @@ const WeaponsTierList = () => {
                         <>
                         <div className='flex'>
                         <div className="card">
-                            <Link to='/WeaponPage/FeastAxe'><img src="public\assets\Gear-Legendary\Feast-Axe-Cd.webp" alt="Feast Axe" className="image" /></Link>
+                            <Link to='/WeaponPage/FeastAxe'><img src="\assets\Gear-Legendary\Feast-Axe-Cd.webp" alt="Feast Axe" className="image" /></Link>
                             <p className="unit-name">Feast Axe</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/NamelessStaff'><img src="public\assets\Gear-Legendary\Nameless-Staff-Cd.webp" alt="Nameless Staff" className="image" /></Link>
+                            <Link to='/WeaponPage/NamelessStaff'><img src="\assets\Gear-Legendary\Nameless-Staff-Cd.webp" alt="Nameless Staff" className="image" /></Link>
                             <p className="unit-name">Nameless Staff</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/SenatorsSwiftSword'><img src="public\assets\Gear-Legendary\Senators-Swift-Sword-Cd.webp" alt="Senator Swift Sword" className="image" /></Link>
+                            <Link to='/WeaponPage/SenatorsSwiftSword'><img src="\assets\Gear-Legendary\Senators-Swift-Sword-Cd.webp" alt="Senator Swift Sword" className="image" /></Link>
                             <p className="unit-name">Senator's Swift Sword</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/CornucopiaStaff'><img src="public\assets\Gear-Legendary\Cornucopia-Staff-Cd.webp" alt="Cornucopia Staff" className="image" /></Link>
+                            <Link to='/WeaponPage/CornucopiaStaff'><img src="\assets\Gear-Legendary\Cornucopia-Staff-Cd.webp" alt="Cornucopia Staff" className="image" /></Link>
                             <p className="unit-name">Cornucopia Staff</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/IrianCombatBow'><img src="public\assets\Gear-Legendary\Iria-Combat-Bow-Cd.webp" alt="Irian Combat Bow" className="image" /></Link>
+                            <Link to='/WeaponPage/IrianCombatBow'><img src="\assets\Gear-Legendary\Iria-Combat-Bow-Cd.webp" alt="Irian Combat Bow" className="image" /></Link>
                             <p className="unit-name">Irian Combat Bow</p>
                           </div>
                         </div>
@@ -139,27 +139,27 @@ const WeaponsTierList = () => {
                         <>
                         <div className='flex'>
                         <div className="card">
-                            <Link to='/WeaponPage/MeleeMegaCrossbow'><img src="public\assets\Gear-Legendary\Melee-Mega-Crossbow-Cd.webp" alt="Melee Mega Crossbow" className="image" /></Link>
+                            <Link to='/WeaponPage/MeleeMegaCrossbow'><img src="\assets\Gear-Legendary\Melee-Mega-Crossbow-Cd.webp" alt="Melee Mega Crossbow" className="image" /></Link>
                             <p className="unit-name">Melee Mega Crossbow</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/WhaleHunter'><img src="public\assets\Gear-Legendary\Whale-Hunter-Cd.webp" alt="Whale Hunter" className="image" /></Link>
+                            <Link to='/WeaponPage/WhaleHunter'><img src="\assets\Gear-Legendary\Whale-Hunter-Cd.webp" alt="Whale Hunter" className="image" /></Link>
                             <p className="unit-name">Whale Hunter</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/BeheadingMachete'><img src="public\assets\Gear-Legendary\Beheading-Machete-Cd.png" alt="Beheading Machete" className="image" /></Link>
+                            <Link to='/WeaponPage/BeheadingMachete'><img src="\assets\Gear-Legendary\Beheading-Machete-Cd.png" alt="Beheading Machete" className="image" /></Link>
                             <p className="unit-name">Beheading Machete</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/GuardiansWill'><img src="public\assets\Gear-Legendary\Guardians-Will-Cd.webp" alt="Guardian's WIll" className="image" /></Link>
+                            <Link to='/WeaponPage/GuardiansWill'><img src="\assets\Gear-Legendary\Guardians-Will-Cd.webp" alt="Guardian's WIll" className="image" /></Link>
                             <p className="unit-name">Guardian's Will</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/DenialHammer'><img src="public\assets\Gear-Legendary\Denial-Hammer-Cd.webp" alt="Denial Hammer" className="image" /></Link>
+                            <Link to='/WeaponPage/DenialHammer'><img src="\assets\Gear-Legendary\Denial-Hammer-Cd.webp" alt="Denial Hammer" className="image" /></Link>
                             <p className="unit-name">Denial Hammer</p>
                           </div>
                           <div className="card">
-                          <Link to='/WeaponPage/SkeletonStaff'><img src="public\assets\Gear-Legendary\Skeleton-Staff-Cd.webp" alt="Skeleton Staff" className="image" /></Link>
+                          <Link to='/WeaponPage/SkeletonStaff'><img src="\assets\Gear-Legendary\Skeleton-Staff-Cd.webp" alt="Skeleton Staff" className="image" /></Link>
                             <p className="unit-name">Skeleton Staff</p>
                           </div>
                         </div>
@@ -169,23 +169,23 @@ const WeaponsTierList = () => {
                         <>
                         <div className='flex'>
                         <div className="card">
-                            <Link to='/WeaponPage/CornucopiaAxe'><img src="public\assets\Gear-Legendary\Cornucopia-Axe-Cd.webp" alt="Cornucopia-Axe" className="image" /></Link>
+                            <Link to='/WeaponPage/CornucopiaAxe'><img src="\assets\Gear-Legendary\Cornucopia-Axe-Cd.webp" alt="Cornucopia-Axe" className="image" /></Link>
                             <p className="unit-name">Cornucopia Axe</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/EverBurningEdge'><img src="public\assets\Gear-Legendary\Everburning-Edge-Cd.webp" alt="Ever-Burning Blade" className="image" /></Link>
+                            <Link to='/WeaponPage/EverBurningEdge'><img src="\assets\Gear-Legendary\Everburning-Edge-Cd.webp" alt="Ever-Burning Blade" className="image" /></Link>
                             <p className="unit-name">Everburning Edge</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/CornucopiaLongbow'><img src="public\assets\Gear-Legendary\Cornucopia-Longbow-Cd.webp" alt="Cornucopia Longbow" className="image" /></Link>
+                            <Link to='/WeaponPage/CornucopiaLongbow'><img src="\assets\Gear-Legendary\Cornucopia-Longbow-Cd.webp" alt="Cornucopia Longbow" className="image" /></Link>
                             <p className="unit-name">Cornucopia Longbow</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/DoomsdayScythe'><img src="public\assets\Gear-Legendary\Doomsday-Scythe-Cd.webp" alt="Doomsday Scythe" className="image" /></Link>
+                            <Link to='/WeaponPage/DoomsdayScythe'><img src="\assets\Gear-Legendary\Doomsday-Scythe-Cd.webp" alt="Doomsday Scythe" className="image" /></Link>
                             <p className="unit-name">Doomsday Scythe</p>
                           </div>
                           <div className="card">
-                            <Link to='/WeaponPage/CornucopiaSpear'><img src="public\assets\Gear-Legendary\Cornucopia-Spear-Cd.webp" alt="Cornucopia Spear" className="image" /></Link>
+                            <Link to='/WeaponPage/CornucopiaSpear'><img src="\assets\Gear-Legendary\Cornucopia-Spear-Cd.webp" alt="Cornucopia Spear" className="image" /></Link>
                             <p className="unit-name">Cornucopia Spear</p>
                           </div>
                         </div>

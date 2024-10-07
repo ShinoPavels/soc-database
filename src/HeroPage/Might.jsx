@@ -14,7 +14,7 @@ const Might = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Might\Might-Profile.webp" alt="Might" title='Might' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Might\Might-Profile.webp" alt="Might" title='Might' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const Might = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Divine-Power-Trait.webp" alt="Divine Power" title='Divine Power'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Divine-Power-Trait.webp" alt="Divine Power" title='Divine Power'></img>
                 <h1>Divine Power :
                     <h2>Increases HP and P.ATK by 15%. Increases ATK by an additional 15% if the character does not move before attacking.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const Might = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Sealing-Bash.webp" alt="Sealing Bash" title='Sealing Bash'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Sealing-Bash.webp" alt="Sealing Bash" title='Sealing Bash'></img>
                 <h1>Sealing Bash :
                     <h2>(Physical DMG) Single-target attack. Deals 145% DMG. Before attacking, inflicts [🛇Passive Skills] and [🛇Reaction Skills] on the target for 1 turn.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const Might = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Knights-Glory.webp" alt="Knight’s Glory" title='Knight’s Glory'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Knights-Glory.webp" alt="Knight’s Glory" title='Knight’s Glory'></img>
                 <h1>Knight’s Glory :
                     <h2>(Support) [Instant] Grants the target [▲ATK 2] for 2 turns. When the targets are from “the Union,” the character gains an additional [Physical Shield] with value equal to 20% of HP.	</h2>
                 </h1>
@@ -149,7 +149,7 @@ const Might = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Sweeping-Bash.webp" alt="Sweeping Bash" title='Sweeping Bash'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Sweeping-Bash.webp" alt="Sweeping Bash" title='Sweeping Bash'></img>
                 <h1>Sweeping Bash :
                     <h2>(Physical DMG) Deals 80% DMG to all enemies within a 3×2 area in the target direction and inflicts [▲P.DEF 1], lasting for 2 turns.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const Might = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Knightly-Spirit.webp" alt="Knightly Spirit" title='Knightly Spirit'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Knightly-Spirit.webp" alt="Knightly Spirit" title='Knightly Spirit'></img>
                 <h1>Knightly Spirit :
                     <h2>(Passive) Increases ATK by 20% when attacking enemies from the [Front]. Increases DEF by 40% when being attacked from the [Front].</h2>
                 </h1>
@@ -167,7 +167,7 @@ const Might = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Inertial-Chop.webp" alt="Inertial Chop" title='Inertial Chop'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Inertial-Chop.webp" alt="Inertial Chop" title='Inertial Chop'></img>
                 <h1>Inertial Chop :
                     <h2>(Passive) After initiating an Active Attack, deals 20% physical DMG to all enemies within a 1-tile radius of the character.</h2>
                 </h1>
@@ -176,7 +176,7 @@ const Might = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Counterattack.webp" alt="Counterattack" title='Counterattack'></img>
                 <h1>Counterattack :
                     <h2>(Reaction) When hit by an active attack from the [front or side], performs a basic attack to [Strike Back] if the attacker is within range, dealing 70% of basic attack’s DMG. The effect can be activated up to 1 time per round.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const Might = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Rage.webp" alt="Rage" title='Rage'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Rage.webp" alt="Rage" title='Rage'></img>
                 <h1>Rage :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. After being attacked, the character gains [▲DMG 2] for 3 turns.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const Might = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Will-to-Survive.webp" alt="Will to Survive" title='Will to Survive'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Will-to-Survive.webp" alt="Will to Survive" title='Will to Survive'></img>
                 <h1>Will to Survive :
                     <h2>(Passive) If the character is [Dying] at the start of the turn, recovers 50 % HP and 2 NRG. Effect CD: 2 turns.</h2>
                 </h1>
@@ -203,7 +203,7 @@ const Might = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Attack-Command.webp" alt="Attack Command" title='Attack Command'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Attack-Command.webp" alt="Attack Command" title='Attack Command'></img>
                 <h1>Attack Command :
                     <h2>(Aura) Increases ATK by 12% for other allies within 2 tiles around the character.</h2>
                 </h1>
@@ -212,7 +212,7 @@ const Might = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Charged-Attack.webp" alt="Charged Attack" title='Charged Attack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Charged-Attack.webp" alt="Charged Attack" title='Charged Attack'></img>
                 <h1>Charged Attack :
                     <h2>(Basic Attack) Deals 100% physical DMG and increases the DMG of the next skill by 15%.</h2>
                 </h1>
@@ -221,7 +221,7 @@ const Might = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Might\Shield-Break-Attack.webp" alt="Shield-Break Attack" title='Shield-Break Attack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Might\Shield-Break-Attack.webp" alt="Shield-Break Attack" title='Shield-Break Attack'></img>
                 <h1>Shield-Break Attack :
                     <h2>(Basic Attack) Deals 100% physical DMG and gains [Shield Break 1] before attacking.</h2>
                 </h1>

@@ -14,7 +14,7 @@ const Enforcer = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Enforcer-Profile.webp" alt="Enforcer" title='Enforcer' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Enforcer\Enforcer-Profile.webp" alt="Enforcer" title='Enforcer' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const Enforcer = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Strong-Will.webp" alt="Strong Will" title='Strong Will'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Strong-Will.webp" alt="Strong Will" title='Strong Will'></img>
                 <h1>Strong Will :
                     <h2>Increases Movement by 1 tile. At the end of the turn, locks onto the closest enemy within a 5-tile radius of the character to inflict [The Hanged Mens Mark]. When attacked by an enemy with [The Hanged Men’s Mark], takes 20% less DMG.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const Enforcer = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Brutal-Blow.webp" alt="Brutal Blow" title='Brutal Blow'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Brutal-Blow.webp" alt="Brutal Blow" title='Brutal Blow'></img>
                 <h1>Brutal Blow :
                     <h2>(Physical DMG) Single-target attack. Deals 130% DMG. Before attacking, the character gains [▲P.DEF 2] and [▲M.DEF 2] for 2 turns.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const Enforcer = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\NRG-Depleting-Blow.webp" alt="NRG-Depleting Blow" title='NRG-Depleting Blow'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\NRG-Depleting-Blow.webp" alt="NRG-Depleting Blow" title='NRG-Depleting Blow'></img>
                 <h1>NRG-Depleting Blow :
                     <h2>(Physical DMG) Single-target attack. Deals 130% DMG and depletes all of the target’s NRG.</h2>
                 </h1>
@@ -149,7 +149,7 @@ const Enforcer = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Luxite-Dust-Bomb.webp" alt="Luxite-Dust Bomb" title='Luxite-Dust Bomb'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Luxite-Dust-Bomb.webp" alt="Luxite-Dust Bomb" title='Luxite-Dust Bomb'></img>
                 <h1>Luxite-Dust Bomb :
                     <h2>(Magical DMG) Deals 50% [AoE DMG] to all enemies within a 1-tile radius of the target and inflicts 2 random [Level 1 Attribute Debuffs] on them, lasting for 2 turns.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const Enforcer = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\MDEF-Command.webp" alt="M.DEF Command" title='M.DEF Command'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\MDEF-Command.webp" alt="M.DEF Command" title='M.DEF Command'></img>
                 <h1>M.DEF Command :
                     <h2>(Aura) Increases M.DEF by 30% for other allies within 2 tiles around the character.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const Enforcer = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Concussion.webp" alt="Concussion" title='Concussion'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Concussion.webp" alt="Concussion" title='Concussion'></img>
                 <h1>Concussion :
                     <h2>(Passive) After attacking, inflicts [▼SPD 3] on the target for 2 turns.</h2>
                 </h1>
@@ -176,7 +176,7 @@ const Enforcer = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Entrapping.webp" alt="Entrapping" title='Entrapping'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Entrapping.webp" alt="Entrapping" title='Entrapping'></img>
                 <h1>Entrapping :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Steals 2 random [Attribute Buffs] from the target.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const Enforcer = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Tenacity.webp" alt="Tenacity" title='Tenacity'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Tenacity.webp" alt="Tenacity" title='Tenacity'></img>
                 <h1>Tenacity :
                     <h2>(Reaction) When hit by an active attack from a [Counter Role] character, the DMG taken is decreased by 25%.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const Enforcer = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Settlement-of-the-Hanged-Man.webp" alt="Settlement of the Hanged Men" title='Settlement of the Hanged Men'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Settlement-of-the-Hanged-Man.webp" alt="Settlement of the Hanged Men" title='Settlement of the Hanged Men'></img>
                 <h1>Settlement of the Hanged Men :
                     <h2>(Passive) After an attack, if the target is [Dying] and has [The Hanged Mens Mark], deals an additional [Piercing DMG] equal to 30% of the target‘s HP. When DMG is dealt, the mark will be removed.</h2>
                 </h1>
@@ -203,7 +203,7 @@ const Enforcer = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Counterattack-Mode.webp" alt="Counterattack Mode" title='Counterattack Mode'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Counterattack-Mode.webp" alt="Counterattack Mode" title='Counterattack Mode'></img>
                 <h1>Counterattack Mode :
                     <h2>(Support) Adds 20% of P.ATK to P.DEF and M.DEF, increases Strike Back DMG by 50%, gains [Preempt], and increases Strike Back Range by 2 tiles, lasting for 2 turns.</h2>
                 </h1>
@@ -212,7 +212,7 @@ const Enforcer = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Feverish-Attack.webp" alt="Feverish Attack" title='Feverish Attack'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Feverish-Attack.webp" alt="Feverish Attack" title='Feverish Attack'></img>
                 <h1>Feverish Attack :
                     <h2>(Basic Attack) Deals 100% Physical DMG and gains 20% [Life Steal].</h2>
                 </h1>
@@ -221,7 +221,7 @@ const Enforcer = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Enforcer\Disarm-Strike.webp" alt="Disarm Strike" title='Disarm Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Enforcer\Disarm-Strike.webp" alt="Disarm Strike" title='Disarm Strike'></img>
                 <h1>Disarm Strike :
                     <h2>(Basic Attack) Deals 100% Physical DMG and inflicts [▲ATK 1] on the target, lasting for 2 turns.</h2>
                 </h1>

@@ -14,7 +14,7 @@ const PapalPikeman = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Papal-Pikeman-Profile.webp" alt="Papal-Pikeman" title='Papal-Pikeman' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Papal-Pikeman-Profile.webp" alt="Papal-Pikeman" title='Papal-Pikeman' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const PapalPikeman = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Blessed-Spear-Trait.webp" alt="Blessed Spear" title='Blessed Spear'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Blessed-Spear-Trait.webp" alt="Blessed Spear" title='Blessed Spear'></img>
                 <h1>Blessed Spear :
                     <h2>Increases P.ATK by 15%. Increases the range of the character’s [Basic Attack] by 1 tile when having 3 or more [Buffs].</h2>
                 </h1>
@@ -132,7 +132,7 @@ const PapalPikeman = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Powerful-Throw.webp" alt="Powerful Throw" title='Powerful Throw'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Powerful-Throw.webp" alt="Powerful Throw" title='Powerful Throw'></img>
                 <h1>Powerful Throw :
                     <h2>(Physical DMG) Single-target attack. Deals 150% DMG.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const PapalPikeman = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Crumbling-Smash.webp" alt="Crumbling Smash" title='Crumbling Smash'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Crumbling-Smash.webp" alt="Crumbling Smash" title='Crumbling Smash'></img>
                 <h1>Crumbling Smash :
                     <h2>(Physical DMG) Single-target attack. Deals 150% DMG. Beofre attacking, the character gains [Shield Break 2].</h2>
                 </h1>
@@ -149,7 +149,7 @@ const PapalPikeman = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\High-Alert.webp" alt="High Alert" title='High Alert'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\High-Alert.webp" alt="High Alert" title='High Alert'></img>
                 <h1>High Alert :
                     <h2>(Support) Performs [Alert] towards a 2-tile area in the target direction, dealing 150% [Physical AoE DMG] once an enemy enters this area.</h2>
                 </h1>
@@ -158,7 +158,7 @@ const PapalPikeman = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Insight.webp" alt="Insight" title='Insight'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Insight.webp" alt="Insight" title='Insight'></img>
                 <h1>Insight :
                     <h2>(Passive) P.ATK increases by 8%. Before attacking, dispels 1 [Defense Attribute Buff] from the target.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const PapalPikeman = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\The-Protected.webp" alt="The Protected" title='The Protected'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\The-Protected.webp" alt="The Protected" title='The Protected'></img>
                 <h1>The Protected :
                     <h2>(Passive) The character gains 15% bonus ATK and 30% bonus DEF while not affected by any [Debuff] and affected by at least 3 [Buffs].</h2>
                 </h1>
@@ -176,7 +176,7 @@ const PapalPikeman = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Rage.webp" alt="Rage" title='Rage'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Rage.webp" alt="Rage" title='Rage'></img>
                 <h1>Rage :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. After being attacked, the character gains [▲DMG 2] for 3 turns.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const PapalPikeman = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Strength-Activation.webp" alt="Strength Activation" title='Strength Activation'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Strength-Activation.webp" alt="Strength Activation" title='Strength Activation'></img>
                 <h1>Strength Activation :
                     <h2>(Reaction) Increases the healing received by 10%. When receiving healing, gains [▲DMG 2] for 1 turn.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const PapalPikeman = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Draconic-Flash-Step.webp" alt="Draconic Flash Step" title='Draconic Flash Step'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Draconic-Flash-Step.webp" alt="Draconic Flash Step" title='Draconic Flash Step'></img>
                 <h1>Draconic Flash Step :
                     <h2>(Physical DMG) Selects 1 spot within a cross-shaped range around the character, charges to the location, and deals 80% DMG to all enemies along the line, ignoring any blocks. After the attack, the character gains [Parry] for 2 turns.</h2>
                 </h1>
@@ -203,7 +203,7 @@ const PapalPikeman = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Papal-Pikeman\Pursuit.webp" alt="Pursuit" title='Pursuit'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Papal-Pikeman\Pursuit.webp" alt="Pursuit" title='Pursuit'></img>
                 <h1>Pursuit :
                     <h2>(Passive) When [Healthy], performs [Pursuit] after a basic attack, dealing 20% Physical DMG and knocking the target back by 1 tile.</h2>
                 </h1>
