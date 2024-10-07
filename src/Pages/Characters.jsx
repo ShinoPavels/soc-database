@@ -686,7 +686,7 @@ const Characters = () => {
       </div>
 
       {/* Characters List */}
-      <div className="text-white grid grid-cols-1 sm:grid-cols-5 md:grid-cols-5 lg:grid-cols-10 gap-6 justify-center mx-4 sm:mx-8 lg:mx-16 m-10">
+      <div className="text-white grid grid-cols-1 max-sm:grid-cols-3 sm:grid-cols-5 md:grid-cols-5 lg:grid-cols-10 gap-6 justify-center mx-4 sm:mx-8 lg:mx-16 m-10">
         {filteredCharacters.map((character, index) => (
           <div
             key={index}
