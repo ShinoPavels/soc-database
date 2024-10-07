@@ -14,7 +14,7 @@ const Alexei = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Out\Alexei\Alexei-Profile.webp" alt="Alexei" title='Alexei' className=''></img>
+          <img src="\assets\Hero-Art-Out\Alexei\Alexei-Profile.webp" alt="Alexei" title='Alexei' className=''></img>
 
         </div>
         
@@ -161,7 +161,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Fight-to-the-Death.webp" alt="Fight to the Death" title='Fight to the Death'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Fight-to-the-Death.webp" alt="Fight to the Death" title='Fight to the Death'></img>
                 <h1>Fight to the Death :
                     <h2>(Passive) When [Dying], increases ATK and DEF by 20%.</h2>
                 </h1>
@@ -170,7 +170,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Leg-Slam.webp" alt="Leg Slam" title='Leg Slam'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Leg-Slam.webp" alt="Leg Slam" title='Leg Slam'></img>
                 <h1>Leg Slam :
                     <h2>(Physical DMG) Deals 120% DMG, knocks the target back by 2 tiles, and inflicts [▼Move 1] for 1 turn.</h2>
                 </h1>
@@ -179,7 +179,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Wild-Howl.webp" alt="Wild Howl" title='Wild Howl'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Wild-Howl.webp" alt="Wild Howl" title='Wild Howl'></img>
                 <h1>Wild Howl :
                     <h2>(Piercing DMG) Alexei deals DMG equal to 40% of his M.ATK and inflicts [▼Move 2] and [▼ATK 3] to all enemies within a 3-tile radius of him, lasting for 2 turns.</h2>
                 </h1>
@@ -188,7 +188,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Burning-Bridges.webp" alt="Burning Bridges" title='Burning Bridges'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Burning-Bridges.webp" alt="Burning Bridges" title='Burning Bridges'></img>
                 <h1>Burning Bridges :
                     <h2>(Physical DMG) Single-target attack Deals 150% DMG. Before attacking, gains [Offensive Stance] for 2 turns.</h2>
                 </h1>
@@ -197,7 +197,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Curse.webp" alt="Curse" title='Curse'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Curse.webp" alt="Curse" title='Curse'></img>
                 <h1>Curse :
                     <h2>(Reaction) When hit by an active attack, the DMG taken is decreased by 8%. Upon receiving an active attack, inflicts [Vulnerable 2] on the attacker for 2 turns.</h2>
                 </h1>
@@ -206,7 +206,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Brutebear-Counter.webp" alt="Brutebear Counter" title='Brutebear Counter'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Brutebear-Counter.webp" alt="Brutebear Counter" title='Brutebear Counter'></img>
                 <h1>Brutebear Counter :
                     <h2>(Reaction) Performs a [Strike Back] when hit by an active attack from the [front or side], dealing 70% physical DMG to the attacker. The effect can be activated up to 2 times per round.</h2>
                 </h1>
@@ -215,7 +215,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Goredrinker.webp" alt="Goredrinker" title='Goredrinker'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Goredrinker.webp" alt="Goredrinker" title='Goredrinker'></img>
                 <h1>Goredrinker :
                     <h2>(Passive) After being attacked, gains [Goredrinker] for 2 turns.</h2>
                 </h1>
@@ -224,7 +224,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Anger-of-Icefield.webp" alt="Anger of Icefield" title='Anger of Icefield'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Anger-of-Icefield.webp" alt="Anger of Icefield" title='Anger of Icefield'></img>
                 <h1>Anger of Icefield :
                     <h2>(Physical DMG) Alexei selects 1 enemy within a cross-shaped range to charge at, deals 50% DMG, and inflicts [Stunned] for 1 turn. Additionally, he deals 50% [Ice] [Area DMG] to all enemies within 2 tiles around the target. After attacking, he gains [Warrior of Frost] for 2 turns.</h2>
                 </h1>
@@ -233,7 +233,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Ice-Attack.webp" alt="Ice Attack" title='Ice Attack'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Ice-Attack.webp" alt="Ice Attack" title='Ice Attack'></img>
                 <h1>Ice Attack :
                     <h2>(Basic Attack) Deals 100% physical DMG and inflicts [▼Move 1] on [Healthy] targets, lasting for 1 turn.</h2>
                 </h1>
@@ -242,7 +242,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Frenzied-Slash.webp" alt="Frenzied Slash" title='Frenzied Slash'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Frenzied-Slash.webp" alt="Frenzied Slash" title='Frenzied Slash'></img>
                 <h1>Frenzied Slash :
                     <h2>(Basic Attack) Deals 110% DMG. If the target is defeated, the character recovers 1 NRG.</h2>
                 </h1>
@@ -252,7 +252,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
 
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Guard.webp" alt="Guard" title='Guard'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Guard.webp" alt="Guard" title='Guard'></img>
                 <h1>Guard :
                     <h2>(Passive) Takes [Physical Attacks] for all other allies within a 2-tile radius of the character. When triggered, DEF is increased by 20%. Can be activated up to 1 time per round.</h2>
                 </h1>
@@ -261,7 +261,7 @@ Under the handsome and heroic and oppressive appearance, he is a shy big boy.
               <td className="px-4 py-2">Rank 11</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Out\Alexei\Counterattack-Storm.webp" alt="Counterattack Storm" title='Counterattack Storm'></img>
+                <img src="\assets\Hero-Art-Out\Alexei\Counterattack-Storm.webp" alt="Counterattack Storm" title='Counterattack Storm'></img>
                 <h1>Counterattack Storm :
                     <h2>(Support) The character’s Strike Back Range is increased by 2 tiles. When performing a Strike Back, physical DMG is increased by 85%, and the character gains 1 Strike Back Count and [Counterattack]. This effect lasts for 2 turns.</h2>
                 </h1>

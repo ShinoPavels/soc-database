@@ -14,7 +14,7 @@ const Angel = () => {
 
         <div className="w-64 h-85 bg-gray-700 flex items-center justify-center">
 
-          <img src="\public\assets\Hero-Art-Gold-Out\Angel\Angel-Profile.webp" alt="Angel" title='Angel' className=''></img>
+          <img src="\assets\Hero-Art-Gold-Out\Angel\Angel-Profile.webp" alt="Angel" title='Angel' className=''></img>
 
         </div>
         
@@ -124,7 +124,7 @@ const Angel = () => {
           <tbody>
             <tr className='bg-gray-800 align-left'>
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Angel-Trait.webp" alt="Angel" title='Angel'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Angel-Trait.webp" alt="Angel" title='Angel'></img>
                 <h1>Angel :
                     <h2>The healing effect increases by 15%. After healing an ally, grants 3 random [Level 1 Attribute Buff] to the target for 2 turns.</h2>
                 </h1>
@@ -132,7 +132,7 @@ const Angel = () => {
               <td className="px-4 py-2">Basic Skill</td>
               
               <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Healing-Spell.webp" alt="Healing Spell" title='Healing Spell'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Healing-Spell.webp" alt="Healing Spell" title='Healing Spell'></img>
                 <h1>Healing Spell :
                     <h2>(Healing) Heals the target 100% of M.ATK and dispels 1 [Debuff] on the target.</h2>
                 </h1>
@@ -140,7 +140,7 @@ const Angel = () => {
                 </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Sanction.webp" alt="Sanction" title='Sanction'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Sanction.webp" alt="Sanction" title='Sanction'></img>
                 <h1>Sanction :
                     <h2>(Magical DMG) Single-target attack. Deals 150% DMG. After attacking, dispels 2 [buffs] on the target.</h2>
                 </h1>
@@ -149,7 +149,7 @@ const Angel = () => {
               <td className=" px-4 py-2">Rank 1</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Light-of-Healing.webp" alt="Light of Healing" title='Light of Healing'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Light-of-Healing.webp" alt="Light of Healing" title='Light of Healing'></img>
                 <h1>Light of Healing :
                     <h2>(Healing) Heals all allies 2 tiles around the target for 60% of the character’s M.ATK and dispels 1 [debuff].</h2>
                 </h1>
@@ -158,7 +158,7 @@ const Angel = () => {
             </tr>
             <tr className='bg-gray-800  align left'>
             <td className=" px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Flagellant.webp" alt="Flagellant" title='Flagellant'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Flagellant.webp" alt="Flagellant" title='Flagellant'></img>
                 <h1>Flagellant :
                     <h2>(Passive) Gains 1 stack of [Penance] after taking DMG. Each stack decreases DMG taken by 8%. This effect cannot be dispelled. Additionally recovers 1 NRG if the character has [Penance] stacks at the end of each turn.</h2>
                 </h1>
@@ -167,7 +167,7 @@ const Angel = () => {
               <td className="px-4 py-2">Rank 3</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Regenerate.webp" alt="Regenerate" title='Regenerate'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Regenerate.webp" alt="Regenerate" title='Regenerate'></img>
                 <h1>Regenerate :
                     <h2>(Passive) At the end of the turn, heals the ally with the lowest HP percentage within a 3-tile radius around the character by 20% of M.ATK.</h2>
                 </h1>
@@ -176,7 +176,7 @@ const Angel = () => {
             </tr>
             <tr className='align-left'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Endurance-Activation.webp" alt="Endurance Activation" title='Endurance Activation'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Endurance-Activation.webp" alt="Endurance Activation" title='Endurance Activation'></img>
                 <h1>Endurance Activation :
                     <h2>(Reaction) When receiving healing, gains [DMG Reduction 2] for 2 turns.</h2>
                 </h1>
@@ -185,7 +185,7 @@ const Angel = () => {
               <td className="px-4 py-2">Rank 5</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Protection-of-Light.webp" alt="Protection of Light" title='Protection of Light'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Protection-of-Light.webp" alt="Protection of Light" title='Protection of Light'></img>
                 <h1>Protection of Light :
                     <h2>(Reaction) When hit by an active single-target attack, the DMG taken is decreased by 30%. This effect can be activated 1 time per round.</h2>
                 </h1>
@@ -194,7 +194,7 @@ const Angel = () => {
             </tr>
             <tr className='bg-gray-800'>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\MDEF-Command.webp" alt="MDEF Command" title='MDEF Command'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\MDEF-Command.webp" alt="MDEF Command" title='MDEF Command'></img>
                 <h1>MDEF Command :
                     <h2>(Aura) Increases M.DEF by 30% for other allies within 2 tiles around the character.	</h2>
                 </h1>
@@ -203,7 +203,7 @@ const Angel = () => {
               <td className="px-4 py-2">Rank 7</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\The-Protected.webp" alt="The Protected" title='The Protected'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\The-Protected.webp" alt="The Protected" title='The Protected'></img>
                 <h1>The Protected :
                     <h2>(Passive) The character gains 15% bonus ATK and 30% bonus DEF while not affected by any [debuff] and affected by at least 3 [buffs].</h2>
                 </h1>
@@ -212,7 +212,7 @@ const Angel = () => {
             </tr>
             <tr>
             <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Dispelling-Strike.webp" alt="Dispelling Strike" title='Dispelling Strike'></img>
                 <h1>Dispelling Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and dispels 2 [buffs] on the target.</h2>
                 </h1>
@@ -221,7 +221,7 @@ const Angel = () => {
               <td className="px-4 py-2">Rank 9</td>
 
               <td className="px-4 py-2 flex items-center justify-left gap-2">
-                <img src="\public\assets\Hero-Art-Gold-Out\Angel\Merciful-Strike.webp" alt="Merciful Strike" title='Merciful Strike'></img>
+                <img src="\assets\Hero-Art-Gold-Out\Angel\Merciful-Strike.webp" alt="Merciful Strike" title='Merciful Strike'></img>
                 <h1>Merciful Strike :
                     <h2>(Basic Attack) Deals 80% Magical DMG and increases the effect of the next healing skill by 15%, lasting for 2 turns.</h2>
                 </h1>
