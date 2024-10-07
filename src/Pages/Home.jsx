@@ -33,8 +33,8 @@ const HomePage = () => {
       <section className="mb-16">
         <h2 className="text-3xl font-semibold text-white text-center mb-6">Current Banners</h2>
         <div className="flex flex-col lg:flex-row lg:space-x-6 space-y-4 lg:space-y-0 justify-center">
-          <img src="public\assets\Banners\Acambe-banner.jpg" alt="Current Banner 1" className="w-full lg:w-1/2 object-cover rounded-lg" />
-          <img src="public\assets\Banners\Dantalion-Magnus-banner.webp" alt="Current Banner 2" className="w-full lg:w-1/2 object-cover rounded-lg" />
+          <img src="\assets\Banners\Acambe-banner.jpg" alt="Current Banner 1" className="w-full lg:w-1/2 object-cover rounded-lg" />
+          <img src="\assets\Banners\Dantalion-Magnus-banner.webp" alt="Current Banner 2" className="w-full lg:w-1/2 object-cover rounded-lg" />
         </div>
       </section>
 
@@ -42,8 +42,8 @@ const HomePage = () => {
       <section className="mb-16">
         <h2 className="text-3xl font-semibold text-white text-center mb-6">Incoming Banners</h2>
         <div className="flex flex-col lg:flex-row lg:space-x-6 space-y-4 lg:space-y-0 justify-center">
-          <img src="public\assets\Banners\Acambe-banner.jpg" alt="Incoming Banner 1" className="w-full lg:w-1/2 object-cover rounded-lg" />
-          <img src="public\assets\Banners\Dantalion-Magnus-banner.webp" alt="Incoming Banner 2" className="w-full lg:w-1/2 object-cover rounded-lg" />
+          <img src="\assets\Banners\Acambe-banner.jpg" alt="Incoming Banner 1" className="w-full lg:w-1/2 object-cover rounded-lg" />
+          <img src="\assets\Banners\Dantalion-Magnus-banner.webp" alt="Incoming Banner 2" className="w-full lg:w-1/2 object-cover rounded-lg" />
         </div>
       </section>
 
