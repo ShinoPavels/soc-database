@@ -105,9 +105,9 @@ const CrystalBurstArmor = () => {
       <div className="bg-gray-800 rounded-lg shadow-lg p-6 mb-10">
         <h2 className="text-3xl font-bold text-white mb-4">Best Users</h2>
         <div className="flex flex-wrap justify-center gap-6">
-            <img src='\assets\Miniatures-Out\Beryl-Minia.png' className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 xl:w-32 xl:h-32 rounded-full object-cover shadow-lg"/>
-            <img src='\assets\Miniatures-Out\Beryl-Minia.png' className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 xl:w-32 xl:h-32 rounded-full object-cover shadow-lg"/>
-            <img src='\assets\Miniatures-Out\Beryl-Minia.png' className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 xl:w-32 xl:h-32 rounded-full object-cover shadow-lg"/>
+            <img src='\assets\Miniatures-Out\Cocoa-Minia.png' className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 xl:w-32 xl:h-32 rounded-full object-cover shadow-lg"/>
+            <img src='\assets\Miniatures-Out\Teadon-Minia.png' className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 lg:w-28 lg:h-28 xl:w-32 xl:h-32 rounded-full object-cover shadow-lg"/>
+           
 
         </div>
       </div>
