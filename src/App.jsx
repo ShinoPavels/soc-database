@@ -154,6 +154,7 @@ const App = () => {
   };
 
   return (
+    
     <Router>
       <div className="bg-gradient-to-b from-black to-gray-800 min-h-screen flex flex-col">
         <Header />

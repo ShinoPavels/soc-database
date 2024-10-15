@@ -18,7 +18,7 @@ const WeaponsTierList = () => {
             {tiers.map((tier, tierIndex) => (
               <tr key={tierIndex}>
                 <td
-                  className={`border border-gray-700 px-4 py-3 lg:px-6 lg:py-4 text-sm lg:text-base text-center bg-gradient-to-br from-purple-600 to-indigo-600`}
+                  className={`border border-gray-700 px-4 py-3 lg:px-6 lg:py-4 text-sm lg:text-base text-center bg-gradient-to-br from-purple-600 to-indigo-600 `}
                 >
                   {tier}
                 </td>

@@ -6,7 +6,7 @@ const TarotTierList = () => {
   const tiers = ["T0", "T1", "T2", "T3"];
 
   return (
-    <div className="text-white p-4 lg:p-8">
+    <div className="text-white p-4 lg:p-8 ">
       <h1 className="text-3xl lg:text-4xl font-extrabold mb-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-darkgreen-500">
         Tarot Tier List
       </h1>
